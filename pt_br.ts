@@ -1043,11 +1043,11 @@ Frase de razão:</translation>
     </message>
     <message>
         <source>Restart to apply after switching languages</source>
-        <translation type="unfinished"></translation>
+        <translation>Reinicie para aplicar a alteração de idioma</translation>
     </message>
     <message>
         <source>Version : %1 (%2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Versão : %1 (%2)</translation>
     </message>
 </context>
 <context>
