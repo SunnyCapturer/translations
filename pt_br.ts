@@ -186,7 +186,8 @@
     <message>
         <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
 - [SITE] %1 [Image recognition engine using native offline]</source>
-        <translation type="unfinished"></translation>
+        <translation>A versão atual não suporta OCR offline, acesse o site oficial para baixar a versão correspondente da CPU ou GPU da biblioteca DLL, copie-a para o diretório raiz onde o programa está localizado e reinicie-o para usá-lo.
+- [SITE] %1 [Usando mecanismo de reconhecimento de imagem offline nativo]</translation>
     </message>
 </context>
 <context>
@@ -833,7 +834,7 @@ Frase de razão:</translation>
     <name>ScreenShoter</name>
     <message>
         <source>Save Image</source>
-        <translation>SalvarImagem</translation>
+        <translation>Salvar Imagem</translation>
     </message>
     <message>
         <source>Success</source>
