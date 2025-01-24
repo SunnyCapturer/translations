@@ -19,6 +19,14 @@
         <source>Quit</source>
         <translation type="unfinished">Beenden</translation>
     </message>
+    <message>
+        <source>%1 is runing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ColorDialogButton</name>
@@ -827,6 +835,11 @@ Reason Phrase: </source>
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Failed to register hotkey : &lt;%1&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenShoter</name>
@@ -1207,11 +1220,42 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
     </message>
 </context>
 <context>
-    <name>VersionUpdater</name>
+    <name>UpdateUI</name>
     <message>
-        <source>Update Available</source>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Your version:</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Latest version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last check:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select download version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VersionUpdater</name>
     <message>
         <source>No Update</source>
         <translation type="unfinished"></translation>
@@ -1242,12 +1286,6 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
     </message>
     <message>
         <source>Network URL Test</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Your version:   %1 (%2)
-Latest version: %3 (%5)
-Do you want to download it?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

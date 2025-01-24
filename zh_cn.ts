@@ -19,6 +19,14 @@
         <source>Restart</source>
         <translation>重启</translation>
     </message>
+    <message>
+        <source>%1 is runing</source>
+        <translation>%1 正在运行中</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>您可以通过托盘图标进行控制。</translation>
+    </message>
 </context>
 <context>
     <name>ColorDialogButton</name>
@@ -829,6 +837,12 @@ Reason Phrase: </source>
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
         <translation>您的当前版本已过期。请访问 &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; 下载最新版本，或者通过邮件 &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; 联系开发者获取下载链接。</translation>
     </message>
+    <message>
+        <source>Failed to register hotkey : &lt;%1&gt;
+</source>
+        <translation>快捷键注册失败 : &lt;%1&gt;
+</translation>
+    </message>
 </context>
 <context>
     <name>ScreenShoter</name>
@@ -1209,6 +1223,41 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
 </context>
 <context>
+    <name>UpdateUI</name>
+    <message>
+        <source>Form</source>
+        <translation></translation>
+    </message>
+    <message>
+        <source>Your version:</source>
+        <translation>当前版本:</translation>
+    </message>
+    <message>
+        <source>Latest version:</source>
+        <translation>最新的版本:</translation>
+    </message>
+    <message>
+        <source>Last check:</source>
+        <translation>上一次检查:</translation>
+    </message>
+    <message>
+        <source>Recheck</source>
+        <translation>重新检查</translation>
+    </message>
+    <message>
+        <source>Select download version:</source>
+        <translation>选择下载的版本:</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>下载</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
     <name>VersionUpdater</name>
     <message>
         <source>Check For Update</source>
@@ -1225,18 +1274,6 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Request Limit</source>
         <translation>请求限制</translation>
-    </message>
-    <message>
-        <source>Update Available</source>
-        <translation>有可用更新</translation>
-    </message>
-    <message>
-        <source>Your version:   %1 (%2)
-Latest version: %3 (%5)
-Do you want to download it?</source>
-        <translation>当前版本: %1 (%2)
-最新版本: %3 (%5)
-你想下载新版本吗？</translation>
     </message>
     <message>
         <source>No Update</source>

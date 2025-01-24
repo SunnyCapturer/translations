@@ -19,6 +19,14 @@
         <source>Quit</source>
         <translation>終了</translation>
     </message>
+    <message>
+        <source>%1 is runing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ColorDialogButton</name>
@@ -845,6 +853,11 @@ Reason Phrase: </source>
         <source>Zulu</source>
         <translation>ズールー語</translation>
     </message>
+    <message>
+        <source>Failed to register hotkey : &lt;%1&gt;
+</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>ScreenShoter</name>
@@ -1225,6 +1238,41 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
 </context>
 <context>
+    <name>UpdateUI</name>
+    <message>
+        <source>Form</source>
+        <translation type="unfinished">Form</translation>
+    </message>
+    <message>
+        <source>Your version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Latest version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Last check:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Recheck</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select download version:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>VersionUpdater</name>
     <message>
         <source>Check For Update</source>
@@ -1241,18 +1289,6 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Request Limit</source>
         <translation>リクエスト制限</translation>
-    </message>
-    <message>
-        <source>Update Available</source>
-        <translation>更新が利用可能</translation>
-    </message>
-    <message>
-        <source>Your version:   %1 (%2)
-Latest version: %3 (%5)
-Do you want to download it?</source>
-        <translation>使用バージョン : %1 (%2)
-最新バージョン : %3 (%5)
-ダウンロードしますか?</translation>
     </message>
     <message>
         <source>No Update</source>

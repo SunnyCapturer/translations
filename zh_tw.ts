@@ -19,6 +19,14 @@
         <source>Quit</source>
         <translation>退出</translation>
     </message>
+    <message>
+        <source>%1 is runing</source>
+        <translation>%1 正在運行中</translation>
+    </message>
+    <message>
+        <source>You can control it via the tray icon.</source>
+        <translation>您可以透過托盤圖示進行控制。</translation>
+    </message>
 </context>
 <context>
     <name>ColorDialogButton</name>
@@ -842,6 +850,12 @@ Reason Phrase: </source>
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
         <translation>您的當前版本已過期。請訪問 &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; 下載最新版本，或者透過郵件 &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; 聯絡開發者獲取下載連結。</translation>
     </message>
+    <message>
+        <source>Failed to register hotkey : &lt;%1&gt;
+</source>
+        <translation>快捷鍵註冊失敗 : &lt;%1&gt;
+</translation>
+    </message>
 </context>
 <context>
     <name>ScreenShoter</name>
@@ -1222,11 +1236,42 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
 </context>
 <context>
-    <name>VersionUpdater</name>
+    <name>UpdateUI</name>
     <message>
-        <source>Update Available</source>
-        <translation>有可用更新</translation>
+        <source>Form</source>
+        <translation></translation>
     </message>
+    <message>
+        <source>Your version:</source>
+        <translation>當前版本:</translation>
+    </message>
+    <message>
+        <source>Latest version:</source>
+        <translation>最新的版本:</translation>
+    </message>
+    <message>
+        <source>Last check:</source>
+        <translation>上一次檢查:</translation>
+    </message>
+    <message>
+        <source>Recheck</source>
+        <translation>重新檢查</translation>
+    </message>
+    <message>
+        <source>Select download version:</source>
+        <translation>選擇下載的版本:</translation>
+    </message>
+    <message>
+        <source>Download</source>
+        <translation>下載</translation>
+    </message>
+    <message>
+        <source>Cancel</source>
+        <translation>取消</translation>
+    </message>
+</context>
+<context>
+    <name>VersionUpdater</name>
     <message>
         <source>No Update</source>
         <translation>已是最新版本</translation>
@@ -1258,14 +1303,6 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Network URL Test</source>
         <translation>網路連結測試</translation>
-    </message>
-    <message>
-        <source>Your version:   %1 (%2)
-Latest version: %3 (%5)
-Do you want to download it?</source>
-        <translation>當前版本: %1 (%2)
-最新版本: %3 (%5)
-你想下載新版本嗎？</translation>
     </message>
     <message>
         <source>GitHub Network Test</source>
