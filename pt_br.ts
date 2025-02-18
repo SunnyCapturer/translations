@@ -1068,6 +1068,14 @@ Frase de razão:</translation>
         <source>Version : %1 (%2)</source>
         <translation>Versão : %1 (%2)</translation>
     </message>
+    <message>
+        <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feekback</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubMenuBar</name>

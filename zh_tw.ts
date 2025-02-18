@@ -1082,6 +1082,14 @@ Reason Phrase: </source>
         <source>Restart to apply after switching languages</source>
         <translation>切換語言後，重啟生效</translation>
     </message>
+    <message>
+        <source>Translations</source>
+        <translation>譯者</translation>
+    </message>
+    <message>
+        <source>Feekback</source>
+        <translation>反饋</translation>
+    </message>
 </context>
 <context>
     <name>SubMenuBar</name>

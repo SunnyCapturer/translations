@@ -1066,6 +1066,14 @@ Reason Phrase: </source>
         <source>Restart to apply after switching languages</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Translations</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Feekback</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>SubMenuBar</name>
