@@ -21,11 +21,12 @@
     </message>
     <message>
         <source>%1 is runing</source>
-        <translation type="unfinished"></translation>
+        <translatorcomment>%1 está em execução</translatorcomment>
+        <translation></translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Você pode controlá-lo através do ícone da bandeja.</translation>
     </message>
 </context>
 <context>
@@ -840,7 +841,7 @@ Frase de razão:</translation>
     <message>
         <source>Failed to register hotkey : &lt;%1&gt;
 </source>
-        <translation type="unfinished"></translation>
+        <translation>Falha ao registrar tecla de atalho: &lt;%1&gt;</translation>
     </message>
 </context>
 <context>
@@ -1070,11 +1071,11 @@ Frase de razão:</translation>
     </message>
     <message>
         <source>Translations</source>
-        <translation type="unfinished"></translation>
+        <translation>Traduções</translation>
     </message>
     <message>
         <source>Feekback</source>
-        <translation type="unfinished"></translation>
+        <translation>Opinião</translation>
     </message>
 </context>
 <context>
@@ -1233,35 +1234,35 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
     <name>UpdateUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Sua versão:</translation>
     </message>
     <message>
         <source>Latest version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Última versão:</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation type="unfinished"></translation>
+        <translation>Última verificação:</translation>
     </message>
     <message>
         <source>Recheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Verifique novamente</translation>
     </message>
     <message>
         <source>Select download version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Selecione a versão para download:</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Download</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1277,7 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
     </message>
     <message>
         <source>Request Limit</source>
-        <translation>Limite de solicitação</translation>
+        <translation>Limite de Solicitação</translation>
     </message>
     <message>
         <source>Install new version</source>
@@ -1296,11 +1297,11 @@ e especifique -1 para deixar Sunny decidir por você.</translation>
     </message>
     <message>
         <source>Network URL Test</source>
-        <translation>Teste de Rede</translation>
+        <translation>Teste de Rede URL</translation>
     </message>
     <message>
         <source>GitHub Network Test</source>
-        <translation>Teste de Rede</translation>
+        <translation>Teste de Rede GitHub</translation>
     </message>
     <message>
         <source>Down url results: %1
