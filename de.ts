@@ -2,6 +2,25 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="de">
 <context>
+    <name>CameraPlayer</name>
+    <message>
+        <source>H Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open the camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Capturer</name>
     <message>
         <source>Screenshot</source>
@@ -20,11 +39,31 @@
         <translation type="unfinished">Beenden</translation>
     </message>
     <message>
+        <source>Record Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record GIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No camera found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is runing</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -37,6 +76,10 @@
 </context>
 <context>
     <name>EditingMenu</name>
+    <message>
+        <source>Open Image</source>
+        <translation type="unfinished"></translation>
+    </message>
     <message>
         <source>Rectangle (Ctrl+1)</source>
         <translation type="unfinished"></translation>
@@ -63,10 +106,6 @@
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Open Image</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -194,6 +233,10 @@
     <message>
         <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
 - [SITE] %1 [Image recognition engine using native offline]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>    [Local %1] time: %2 s %3 ms</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -334,55 +377,47 @@ Reason Phrase: </source>
         <source>NETWORK ERROR</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BaiDu Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BaiDu Cloud Picture Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YouDao Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>    [%1] time: %2 s %3 ms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OcrUI</name>
     <message>
-        <source>Extract Text</source>
+        <source>OCR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>toolBar</source>
+        <source>Import PDF</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous</source>
+        <source>Open PDF file</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Original Image</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Original Size</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Save as ...</source>
+        <source>PDF file (*.pdf)</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -390,6 +425,13 @@ Reason Phrase: </source>
     <name>PathEdit</name>
     <message>
         <source>Browse</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>PdfViewer</name>
+    <message>
+        <source>Close</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -405,10 +447,6 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Baidu Cloud</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Offline Local</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -836,8 +874,30 @@ Reason Phrase: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Failed to register hotkey : &lt;%1&gt;
-</source>
+        <source>CRASH</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Local CPU</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Offline Local GPU</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorder</name>
+    <message>
+        <source>Could not capture the given window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to initialize the recorder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not open the encoder</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -849,11 +909,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished">Erfolg</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished">Fehlgeschlagen</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image save to %1</source>
@@ -871,20 +931,12 @@ Reason Phrase: </source>
         <translation type="unfinished">Allgemein</translation>
     </message>
     <message>
-        <source>Interface</source>
-        <translation type="unfinished">Oberfläche</translation>
-    </message>
-    <message>
         <source>OCR</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image Translate</source>
         <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Output</source>
-        <translation type="unfinished">Ausgabe</translation>
     </message>
     <message>
         <source>Hotkeys</source>
@@ -1059,19 +1111,147 @@ Reason Phrase: </source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Version : %1 (%2)</source>
+        <source>Video Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restart to apply after switching languages</source>
+        <source>GIF Recording</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translations</source>
+        <source>Devices</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feekback</source>
+        <source>Quick Look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gif Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Captured by Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software x264 [H.264 / AVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software x265 [H.265 / HEVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware NVENC [H.264 / AVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware NVENC [H.265 / HEVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Framerate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rate Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation type="unfinished">Voreinstellung</translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tune</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Params</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dither</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speaker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Camera</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1150,6 +1330,10 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
     </message>
     <message>
         <source>Enable</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Skip the save dialog and directly save the last folder silently.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1303,6 +1487,73 @@ und geben Sie -1 an, damit Sunny für Sie entscheiden kann.</translation>
     <message>
         <source>Down url results: %1
 (url: %2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>VideoPlayer</name>
+    <message>
+        <source>Failed to open the video decoder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open the audio output device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>H Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>V Flip</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 90</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 270</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renderer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

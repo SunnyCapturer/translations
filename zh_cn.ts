@@ -2,10 +2,29 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_CN">
 <context>
+    <name>CameraPlayer</name>
+    <message>
+        <source>H Flip</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>V Flip</source>
+        <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Failed to open the camera</source>
+        <translation>打开摄像头失败</translation>
+    </message>
+</context>
+<context>
     <name>Capturer</name>
     <message>
         <source>Screenshot</source>
-        <translation>截图</translation>
+        <translation>捕获截图</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -20,12 +39,32 @@
         <translation>重启</translation>
     </message>
     <message>
+        <source>Record Video</source>
+        <translation>录制视频</translation>
+    </message>
+    <message>
+        <source>Record GIF</source>
+        <translation>录制动图</translation>
+    </message>
+    <message>
+        <source>Open Camera</source>
+        <translation>打开相机</translation>
+    </message>
+    <message>
+        <source>No camera found</source>
+        <translation>未找到摄像头</translation>
+    </message>
+    <message>
         <source>%1 is runing</source>
-        <translation>%1 正在运行中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>您可以通过托盘图标进行控制。</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation>提取文本</translation>
     </message>
 </context>
 <context>
@@ -43,71 +82,71 @@
     </message>
     <message>
         <source>Rectangle (Ctrl+1)</source>
-        <translation>矩形 (Ctrl+1)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Ellipse (Ctrl+2)</source>
-        <translation>椭圆 (Ctrl+2)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Arrow (Ctrl+3)</source>
-        <translation>箭头 (Ctrl+3)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pencil (Ctrl+4) (B)</source>
-        <translation>画笔 (Ctrl+4) (B)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Blur/Mosaic (Ctrl+5)</source>
-        <translation>模糊/马赛克 (Ctrl+5)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Text (Ctrl+6) (T)</source>
-        <translation>文本 (Ctrl+6) (T)</translation>
-    </message>
-    <message>
-        <source>Counter (Ctrl+8)</source>
-        <translation>序号 (Ctrl+8)</translation>
-    </message>
-    <message>
-        <source>Eraser (E)</source>
-        <translation>橡皮檫 (E)</translation>
-    </message>
-    <message>
-        <source>Undo (Ctrl+Z)</source>
-        <translation>撤销 (Ctrl+Z)</translation>
-    </message>
-    <message>
-        <source>Redo (Ctrl+Y)</source>
-        <translation>重做 (Ctrl+Y)</translation>
-    </message>
-    <message>
-        <source>Cancel Capture (Esc)</source>
-        <translation>退出截图 (Esc)</translation>
-    </message>
-    <message>
-        <source>Pin to screen (P)</source>
-        <translation>钉图于屏幕 (P)</translation>
-    </message>
-    <message>
-        <source>Save to file (Ctrl+S)</source>
-        <translation>保存到文件 (Ctrl+S)</translation>
-    </message>
-    <message>
-        <source>Copy to clipboard (Ctrl+C)</source>
-        <translation>复制到剪切板 (Ctrl+C)</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>图片翻译</translation>
-    </message>
-    <message>
-        <source>Extract text</source>
-        <translation>提取文本</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation>贴图 (Ctrl+7)</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Counter (Ctrl+8)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Eraser (E)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Translate</source>
+        <translation type="unfinished">翻译</translation>
+    </message>
+    <message>
+        <source>Extract text</source>
+        <translation type="unfinished">提取文本</translation>
+    </message>
+    <message>
+        <source>Undo (Ctrl+Z)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Redo (Ctrl+Y)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Cancel Capture (Esc)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pin to screen (P)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save to file (Ctrl+S)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy to clipboard (Ctrl+C)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -196,6 +235,10 @@
 - [SITE] %1 [Image recognition engine using native offline]</source>
         <translation>當前使用的版本不支援離線 OCR，請到官方網站下載相應 CPU 或 GPU 版本的 DLL 庫，複製到程式所在的根目錄，然後重啟即可使用。
 - [網址] %1 [使用本地離線的圖片識別引擎篇]</translation>
+    </message>
+    <message>
+        <source>    [Local %1] time: %2 s %3 ms</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -336,56 +379,48 @@ Reason Phrase: </source>
         <source>Your Baidu Yun API Secret [ID Or Key] is empty, please check and re-enter it!</source>
         <translation>你的百度云 API 密钥 [ID 或 Key] 为空，请检查并重新输入！</translation>
     </message>
+    <message>
+        <source>Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent Cloud</source>
+        <translation>腾讯云</translation>
+    </message>
+    <message>
+        <source>BaiDu Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BaiDu Cloud Picture Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YouDao Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>    [%1] time: %2 s %3 ms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OcrUI</name>
     <message>
-        <source>Extract Text</source>
+        <source>OCR</source>
         <translation>提取文本</translation>
     </message>
     <message>
-        <source>toolBar</source>
-        <translation>工具栏</translation>
+        <source>Import PDF</source>
+        <translation>导入 PDF 文件</translation>
     </message>
     <message>
-        <source>Previous</source>
-        <translation>上一个</translation>
+        <source>Open PDF file</source>
+        <translation>打开 PDF 文件</translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation>下一个</translation>
-    </message>
-    <message>
-        <source>Original Image</source>
-        <translation>对照</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>放大</translation>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation>缩小</translation>
-    </message>
-    <message>
-        <source>Original Size</source>
-        <translation>原始尺寸</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>旋转</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>编辑</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>翻译</translation>
-    </message>
-    <message>
-        <source>Save as ...</source>
-        <translation>另存为...</translation>
+        <source>PDF file (*.pdf)</source>
+        <translation>PDF 文件 (*.pdf)</translation>
     </message>
 </context>
 <context>
@@ -393,6 +428,13 @@ Reason Phrase: </source>
     <message>
         <source>Browse</source>
         <translation>浏览</translation>
+    </message>
+</context>
+<context>
+    <name>PdfViewer</name>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
     </message>
 </context>
 <context>
@@ -408,10 +450,6 @@ Reason Phrase: </source>
     <message>
         <source>Baidu Cloud</source>
         <translation>百度云</translation>
-    </message>
-    <message>
-        <source>Offline Local</source>
-        <translation>本地离线</translation>
     </message>
     <message>
         <source>Youdao Cloud</source>
@@ -838,10 +876,31 @@ Reason Phrase: </source>
         <translation>您的当前版本已过期。请访问 &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; 下载最新版本，或者通过邮件 &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; 联系开发者获取下载链接。</translation>
     </message>
     <message>
-        <source>Failed to register hotkey : &lt;%1&gt;
-</source>
-        <translation>快捷键注册失败 : &lt;%1&gt;
-</translation>
+        <source>CRASH</source>
+        <translation>崩溃</translation>
+    </message>
+    <message>
+        <source>Offline Local CPU</source>
+        <translation>离线本地 CPU</translation>
+    </message>
+    <message>
+        <source>Offline Local GPU</source>
+        <translation>离线本地 GPU</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorder</name>
+    <message>
+        <source>Could not capture the given window</source>
+        <translation>无法捕获该窗口</translation>
+    </message>
+    <message>
+        <source>Failed to initialize the recorder</source>
+        <translation>视频录制初始化失败</translation>
+    </message>
+    <message>
+        <source>Could not open the encoder</source>
+        <translation>无法打开视频编码器</translation>
     </message>
 </context>
 <context>
@@ -860,7 +919,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Image save to %1</source>
-        <translation>图片保存至 %1</translation>
+        <translation>图片保存到 %1</translation>
     </message>
 </context>
 <context>
@@ -948,10 +1007,6 @@ Reason Phrase: </source>
     <message>
         <source>Repeat Last Screenshot</source>
         <translation>重复上次截图</translation>
-    </message>
-    <message>
-        <source>Output</source>
-        <translation>输出</translation>
     </message>
     <message>
         <source>Update</source>
@@ -1058,24 +1113,148 @@ Reason Phrase: </source>
         <translation>有道云支持语言 [%1]</translation>
     </message>
     <message>
-        <source>Interface</source>
-        <translation>界面</translation>
+        <source>Video Recording</source>
+        <translation>视频录制</translation>
     </message>
     <message>
-        <source>Version : %1 (%2)</source>
-        <translation>版本 : %1 (%2)</translation>
+        <source>GIF Recording</source>
+        <translation>GIF录制</translation>
     </message>
     <message>
-        <source>Restart to apply after switching languages</source>
-        <translation>切换语言后，重启生效</translation>
+        <source>Devices</source>
+        <translation>设备</translation>
     </message>
     <message>
-        <source>Translations</source>
-        <translation>译者</translation>
+        <source>Quick Look</source>
+        <translation>快速预览</translation>
     </message>
     <message>
-        <source>Feekback</source>
-        <translation>反馈</translation>
+        <source>Gif Recording</source>
+        <translation>GIF录制</translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation>文件</translation>
+    </message>
+    <message>
+        <source>Save Path</source>
+        <translation>保存路径</translation>
+    </message>
+    <message>
+        <source>Show Region</source>
+        <translation>显示录制区域</translation>
+    </message>
+    <message>
+        <source>Floating Menu</source>
+        <translation>悬浮菜单</translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation>封装格式</translation>
+    </message>
+    <message>
+        <source>Captured by Default</source>
+        <translation>默认捕获</translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation>鼠标</translation>
+    </message>
+    <message>
+        <source>Microphone</source>
+        <translation>麦克风</translation>
+    </message>
+    <message>
+        <source>System Audio</source>
+        <translation>系统声音</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation>视频</translation>
+    </message>
+    <message>
+        <source>Software x264 [H.264 / AVC]</source>
+        <translation>软件编码 x264 [H.264 / AVC]</translation>
+    </message>
+    <message>
+        <source>Software x265 [H.265 / HEVC]</source>
+        <translation>软件编码 x265 [H.265 / HEVC]</translation>
+    </message>
+    <message>
+        <source>Hardware NVENC [H.264 / AVC]</source>
+        <translation>硬件编码 NVENC [H.264 / AVC]</translation>
+    </message>
+    <message>
+        <source>Hardware NVENC [H.265 / HEVC]</source>
+        <translation>硬件编码 NVENC [H.265 / HEVC]</translation>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation>编码器</translation>
+    </message>
+    <message>
+        <source>Framerate</source>
+        <translation>帧率</translation>
+    </message>
+    <message>
+        <source>Rate Control</source>
+        <translation>采样率</translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation>预设</translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation>配置 (Profile)</translation>
+    </message>
+    <message>
+        <source>Tune</source>
+        <translation>微调 (Tune)</translation>
+    </message>
+    <message>
+        <source>Pixel Format</source>
+        <translation>像素格式</translation>
+    </message>
+    <message>
+        <source>Color Space</source>
+        <translation>颜色空间</translation>
+    </message>
+    <message>
+        <source>Color Range</source>
+        <translation>颜色范围</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation>音频</translation>
+    </message>
+    <message>
+        <source>Channel Layout</source>
+        <translation>声道</translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation>采样率</translation>
+    </message>
+    <message>
+        <source>Params</source>
+        <translation>参数</translation>
+    </message>
+    <message>
+        <source>Max Colors</source>
+        <translation>最大色彩数</translation>
+    </message>
+    <message>
+        <source>Dither</source>
+        <translation>抖动</translation>
+    </message>
+    <message>
+        <source>Speaker</source>
+        <translation>扬声器</translation>
+    </message>
+    <message>
+        <source>Camera</source>
+        <translation>相机</translation>
     </message>
 </context>
 <context>
@@ -1154,6 +1333,10 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Enable</source>
         <translation>启用</translation>
+    </message>
+    <message>
+        <source>Skip the save dialog and directly save the last folder silently.</source>
+        <translation>跳过保存对话框，默存上次的文件夹中。</translation>
     </message>
 </context>
 <context>
@@ -1308,6 +1491,73 @@ and specify -1 to let Sunny decide for you.</source>
 (url: %2)</source>
         <translation>下载网址结果: %1
 (网址: %2)</translation>
+    </message>
+</context>
+<context>
+    <name>VideoPlayer</name>
+    <message>
+        <source>Renderer</source>
+        <translation>渲染器</translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation>音频</translation>
+    </message>
+    <message>
+        <source>Select Audio Stream</source>
+        <translation>选择音频流</translation>
+    </message>
+    <message>
+        <source>Subtitles</source>
+        <translation>字幕</translation>
+    </message>
+    <message>
+        <source>Select Subtitles</source>
+        <translation>选择字幕</translation>
+    </message>
+    <message>
+        <source>Add Subtitles</source>
+        <translation>添加字幕</translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation>属性</translation>
+    </message>
+    <message>
+        <source>Failed to open the video decoder</source>
+        <translation>无法打开视频解码器</translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation>视频</translation>
+    </message>
+    <message>
+        <source>H Flip</source>
+        <translation>水平翻转</translation>
+    </message>
+    <message>
+        <source>V Flip</source>
+        <translation>垂直翻转</translation>
+    </message>
+    <message>
+        <source>Failed to open the audio output device</source>
+        <translation>无法打开音频输出设备</translation>
+    </message>
+    <message>
+        <source>Rotate 0</source>
+        <translation>不旋转</translation>
+    </message>
+    <message>
+        <source>Rotate 90</source>
+        <translation>旋转90°</translation>
+    </message>
+    <message>
+        <source>Rotate 180</source>
+        <translation>旋转180°</translation>
+    </message>
+    <message>
+        <source>Rotate 270</source>
+        <translation>旋转270°</translation>
     </message>
 </context>
 </TS>

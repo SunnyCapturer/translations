@@ -2,10 +2,29 @@
 <!DOCTYPE TS>
 <TS version="2.1" language="zh_TW">
 <context>
+    <name>CameraPlayer</name>
+    <message>
+        <source>H Flip</source>
+        <translation>水平翻轉</translation>
+    </message>
+    <message>
+        <source>V Flip</source>
+        <translation>垂直翻轉</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
+    </message>
+    <message>
+        <source>Failed to open the camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Capturer</name>
     <message>
         <source>Screenshot</source>
-        <translation>截圖</translation>
+        <translation>捕獲截圖</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -20,12 +39,32 @@
         <translation>退出</translation>
     </message>
     <message>
+        <source>Record Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Record GIF</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open Camera</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No camera found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>%1 is runing</source>
-        <translation>%1 正在運行中</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>您可以透過托盤圖示進行控制。</translation>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>OCR</source>
+        <translation>提取文字</translation>
     </message>
 </context>
 <context>
@@ -38,90 +77,76 @@
 <context>
     <name>EditingMenu</name>
     <message>
-        <source>Rectangle (Ctrl+1)</source>
-        <translation>矩形 (Ctrl+1)</translation>
-    </message>
-    <message>
-        <source>Ellipse (Ctrl+2)</source>
-        <translation>橢圓 (Ctrl+2)</translation>
-    </message>
-    <message>
-        <source>Arrow (Ctrl+3)</source>
-        <translation>箭頭 (Ctrl+3)</translation>
-    </message>
-    <message>
-        <source>Pencil (Ctrl+4) (B)</source>
-        <translation>畫筆 (Ctrl+4) (B)</translation>
-    </message>
-    <message>
-        <source>Blur/Mosaic (Ctrl+5)</source>
-        <translation>模糊/馬賽克 (Ctrl+5)</translation>
-    </message>
-    <message>
-        <source>Text (Ctrl+6) (T)</source>
-        <translation>文字 (Ctrl+6) (T)</translation>
-    </message>
-    <message>
-        <source>Image (Ctrl+7)</source>
-        <translation>貼圖 (Ctrl+7)</translation>
-    </message>
-    <message>
         <source>Open Image</source>
         <translation>選擇圖片</translation>
     </message>
     <message>
+        <source>Rectangle (Ctrl+1)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Ellipse (Ctrl+2)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Arrow (Ctrl+3)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pencil (Ctrl+4) (B)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blur/Mosaic (Ctrl+5)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Text (Ctrl+6) (T)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Image (Ctrl+7)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>Counter (Ctrl+8)</source>
-        <translation>序號 (Ctrl+8)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Eraser (E)</source>
-        <translation>橡皮檫 (E)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation>圖片翻譯</translation>
+        <translation type="unfinished">翻譯</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation>提取文字</translation>
+        <translation type="unfinished">提取文字</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation>撤銷 (Ctrl+Z)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation>重做 (Ctrl+Y)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Cancel Capture (Esc)</source>
-        <translation>退出截圖 (Esc)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Pin to screen (P)</source>
-        <translation>釘圖於螢幕 (P)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation>矩形 (Ctrl+1)
-橢圓 (Ctrl+2)
-箭頭 (Ctrl+3)
-畫筆 (Ctrl+4) (B)
-模糊/馬賽克 (Ctrl+5)
-文字 (Ctrl+6) (T)
-序號 (Ctrl+8)
-橡皮檫 (E)
-
-撤銷 (Ctrl+Z)
-重做 (Ctrl+Y)
-
-退出截圖 (Esc)
-釘圖於螢幕 (P)
-儲存到檔案 (Ctrl+S)</translation>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation>複製到剪下板 (Ctrl+C)</translation>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -209,6 +234,10 @@
         <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
 - [SITE] %1 [Image recognition engine using native offline]</source>
         <translation></translation>
+    </message>
+    <message>
+        <source>    [Local %1] time: %2 s %3 ms</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -349,56 +378,48 @@ Reason Phrase: </source>
         <source>NETWORK ERROR</source>
         <translation>網路錯誤</translation>
     </message>
+    <message>
+        <source>Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tencent Cloud</source>
+        <translation>騰訊雲</translation>
+    </message>
+    <message>
+        <source>BaiDu Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>BaiDu Cloud Picture Translation</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>YouDao Cloud</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>    [%1] time: %2 s %3 ms</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>OcrUI</name>
     <message>
-        <source>Extract Text</source>
+        <source>OCR</source>
         <translation>提取文字</translation>
     </message>
     <message>
-        <source>toolBar</source>
-        <translation>工具欄</translation>
+        <source>Import PDF</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Previous</source>
-        <translation>上一個</translation>
+        <source>Open PDF file</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Next</source>
-        <translation>下一個</translation>
-    </message>
-    <message>
-        <source>Original Image</source>
-        <translation>對照</translation>
-    </message>
-    <message>
-        <source>Zoom</source>
-        <translation>放大</translation>
-    </message>
-    <message>
-        <source>Shrink</source>
-        <translation>縮小</translation>
-    </message>
-    <message>
-        <source>Original Size</source>
-        <translation>原始尺寸</translation>
-    </message>
-    <message>
-        <source>Rotate</source>
-        <translation>旋轉</translation>
-    </message>
-    <message>
-        <source>Edit</source>
-        <translation>編輯</translation>
-    </message>
-    <message>
-        <source>Translate</source>
-        <translation>翻譯</translation>
-    </message>
-    <message>
-        <source>Save as ...</source>
-        <translation>另存為...</translation>
+        <source>PDF file (*.pdf)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -406,6 +427,13 @@ Reason Phrase: </source>
     <message>
         <source>Browse</source>
         <translation>瀏覽</translation>
+    </message>
+</context>
+<context>
+    <name>PdfViewer</name>
+    <message>
+        <source>Close</source>
+        <translation>關閉</translation>
     </message>
 </context>
 <context>
@@ -421,10 +449,6 @@ Reason Phrase: </source>
     <message>
         <source>Baidu Cloud</source>
         <translation>百度雲</translation>
-    </message>
-    <message>
-        <source>Offline Local</source>
-        <translation>本地離線</translation>
     </message>
     <message>
         <source>Youdao Cloud</source>
@@ -851,10 +875,31 @@ Reason Phrase: </source>
         <translation>您的當前版本已過期。請訪問 &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; 下載最新版本，或者透過郵件 &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; 聯絡開發者獲取下載連結。</translation>
     </message>
     <message>
-        <source>Failed to register hotkey : &lt;%1&gt;
-</source>
-        <translation>快捷鍵註冊失敗 : &lt;%1&gt;
-</translation>
+        <source>CRASH</source>
+        <translation>崩潰</translation>
+    </message>
+    <message>
+        <source>Offline Local CPU</source>
+        <translation>離線本地 CPU</translation>
+    </message>
+    <message>
+        <source>Offline Local GPU</source>
+        <translation>離線本地 GPU</translation>
+    </message>
+</context>
+<context>
+    <name>ScreenRecorder</name>
+    <message>
+        <source>Could not capture the given window</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to initialize the recorder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not open the encoder</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -873,7 +918,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Image save to %1</source>
-        <translation>圖片儲存至 %1</translation>
+        <translation>圖片儲存到 %1</translation>
     </message>
 </context>
 <context>
@@ -887,20 +932,12 @@ Reason Phrase: </source>
         <translation>通用</translation>
     </message>
     <message>
-        <source>Interface</source>
-        <translation>介面</translation>
-    </message>
-    <message>
         <source>OCR</source>
         <translation>提取文字</translation>
     </message>
     <message>
         <source>Image Translate</source>
         <translation>圖片翻譯</translation>
-    </message>
-    <message>
-        <source>Output</source>
-        <translation>輸出</translation>
     </message>
     <message>
         <source>Hotkeys</source>
@@ -1075,20 +1112,148 @@ Reason Phrase: </source>
         <translation>遮罩顏色</translation>
     </message>
     <message>
-        <source>Version : %1 (%2)</source>
-        <translation>版本 : %1 (%2)</translation>
+        <source>Video Recording</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Restart to apply after switching languages</source>
-        <translation>切換語言後，重啟生效</translation>
+        <source>GIF Recording</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Translations</source>
-        <translation>譯者</translation>
+        <source>Devices</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>Feekback</source>
-        <translation>反饋</translation>
+        <source>Quick Look</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Gif Recording</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>File</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Save Path</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Show Region</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Floating Menu</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Captured by Default</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mouse</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microphone</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>System Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software x264 [H.264 / AVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Software x265 [H.265 / HEVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware NVENC [H.264 / AVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Hardware NVENC [H.265 / HEVC]</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Encoder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Framerate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rate Control</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preset</source>
+        <translation>預設</translation>
+    </message>
+    <message>
+        <source>Profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Tune</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pixel Format</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Space</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Color Range</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Channel Layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sample Rate</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Params</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Max Colors</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Dither</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Speaker</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Camera</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -1167,6 +1332,10 @@ and specify -1 to let Sunny decide for you.</source>
     <message>
         <source>Enable</source>
         <translation>啟用</translation>
+    </message>
+    <message>
+        <source>Skip the save dialog and directly save the last folder silently.</source>
+        <translation>跳過儲存對話方塊，默存上次的資料夾中。</translation>
     </message>
 </context>
 <context>
@@ -1321,6 +1490,73 @@ and specify -1 to let Sunny decide for you.</source>
 (url: %2)</source>
         <translation>下載網址結果: %1
 (網址: %2)</translation>
+    </message>
+</context>
+<context>
+    <name>VideoPlayer</name>
+    <message>
+        <source>Failed to open the video decoder</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to open the audio output device</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Video</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>H Flip</source>
+        <translation>水平翻轉</translation>
+    </message>
+    <message>
+        <source>V Flip</source>
+        <translation>垂直翻轉</translation>
+    </message>
+    <message>
+        <source>Rotate 0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 90</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 180</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Rotate 270</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Audio</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Audio Stream</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Renderer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Select Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Add Subtitles</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Properties</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 </TS>
