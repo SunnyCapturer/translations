@@ -1,1558 +1,1558 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE TS>
-<TS version="2.1">
+<TS version="2.1" language="ru_RU">
 <context>
     <name>CameraPlayer</name>
     <message>
         <source>H Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>H Переворот</translation>
     </message>
     <message>
         <source>V Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>V-образный переворот</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
     <message>
         <source>Failed to open the camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть камеру</translation>
     </message>
 </context>
 <context>
     <name>Capturer</name>
     <message>
         <source>%1 is runing</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 запущен</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы можете управлять им через значок в трее.</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Снимок экрана</translation>
     </message>
     <message>
         <source>OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Record Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись видео</translation>
     </message>
     <message>
         <source>Record GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись GIF</translation>
     </message>
     <message>
         <source>Open Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть камеру</translation>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>Restart</source>
-        <translation type="unfinished"></translation>
+        <translation>Перезапуск</translation>
     </message>
     <message>
         <source>Quit</source>
-        <translation type="unfinished"></translation>
+        <translation>Выйти</translation>
     </message>
     <message>
         <source>No camera found</source>
-        <translation type="unfinished"></translation>
+        <translation>Камера не найдена</translation>
     </message>
 </context>
 <context>
     <name>ColorDialogButton</name>
     <message>
         <source>Select Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать цвет</translation>
     </message>
 </context>
 <context>
     <name>EditingMenu</name>
     <message>
         <source>Rectangle (Ctrl+1)</source>
-        <translation type="unfinished"></translation>
+        <translation>Меню редактирования</translation>
     </message>
     <message>
         <source>Ellipse (Ctrl+2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Эллипс (Ctrl+2)</translation>
     </message>
     <message>
         <source>Arrow (Ctrl+3)</source>
-        <translation type="unfinished"></translation>
+        <translation>Стрелка (Ctrl+3)</translation>
     </message>
     <message>
         <source>Pencil (Ctrl+4) (B)</source>
-        <translation type="unfinished"></translation>
+        <translation>Карандаш (Ctrl+4) (B)</translation>
     </message>
     <message>
         <source>Blur/Mosaic (Ctrl+5)</source>
-        <translation type="unfinished"></translation>
+        <translation>Размытие/Мозаика (Ctrl+5)</translation>
     </message>
     <message>
         <source>Text (Ctrl+6) (T)</source>
-        <translation type="unfinished"></translation>
+        <translation>Текст (Ctrl+6) (T)</translation>
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение (Ctrl+7)</translation>
     </message>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть изображение</translation>
     </message>
     <message>
         <source>Counter (Ctrl+8)</source>
-        <translation type="unfinished"></translation>
+        <translation>Счетчик (Ctrl+8)</translation>
     </message>
     <message>
         <source>Eraser (E)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ластик (E)</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевести</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечь текст</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторить (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Cancel Capture (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>Отмена захвата (Esc)</translation>
     </message>
     <message>
         <source>Pin to screen (P)</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрепить на экране (P)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить в файл (Ctrl+S)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать в буфер обмена (Ctrl+C)</translation>
     </message>
 </context>
 <context>
     <name>GuideUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Move the cursor by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить курсор на 1 пиксель</translation>
     </message>
     <message>
         <source>Move the snipping area by 1 pixel</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить область вырезания на 1 пиксель</translation>
     </message>
     <message>
         <source>Shrink the selected rectangular area</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить выбранную прямоугольную область</translation>
     </message>
     <message>
         <source>Stretch the selected rectangular area</source>
-        <translation type="unfinished"></translation>
+        <translation>Растянуть выбранную прямоугольную область</translation>
     </message>
     <message>
         <source>Toggle between window detection and element detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключение между обнаружением окон и обнаружением элементов</translation>
     </message>
     <message>
         <source>Select the active screen / fullscreen</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать активный экран / полный экран</translation>
     </message>
     <message>
         <source>Show/Hide the capture mouse cursor</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать/скрыть курсор мыши</translation>
     </message>
     <message>
         <source>Copy the color value of magnifier</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать значение цвета лупы</translation>
     </message>
     <message>
         <source>Switch the color format of the magnifier to RGB/HEX/FLT</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить формат цвета лупы на RGB/HEX/FLT</translation>
     </message>
     <message>
         <source>Move the selected rectangular box</source>
-        <translation type="unfinished"></translation>
+        <translation>Переместить выбранный прямоугольный блок</translation>
     </message>
     <message>
         <source>TextLabel</source>
-        <translation type="unfinished"></translation>
+        <translation>Текстовая метка</translation>
     </message>
 </context>
 <context>
     <name>ImageView</name>
     <message>
         <source>Load Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Загрузить изображение</translation>
     </message>
     <message>
         <source>Zoom In</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличить</translation>
     </message>
     <message>
         <source>Zoom Out</source>
-        <translation type="unfinished"></translation>
+        <translation>Уменьшить</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановка</translation>
     </message>
     <message>
         <source>Zoom: %1%</source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение: %1%</translation>
     </message>
     <message>
         <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
 - [SITE] %1 [Image recognition engine using native offline]</source>
-        <translation type="unfinished"></translation>
+        <translation>Текущая версия не поддерживает автономное OCR. Перейдите на официальный сайт, чтобы загрузить соответствующую версию библиотеки DLL для CPU или GPU, скопируйте ее в корневой каталог, где находится программа, а затем перезапустите ее, чтобы использовать. - [САЙТ] %1 [Механизм распознавания изображений с использованием встроенного автономного режима]</translation>
     </message>
     <message>
         <source>    [Local %1] time: %2 s %3 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>[Местное время %1]: %2 с %3 мс</translation>
     </message>
     <message>
         <source>Image Files(*.png);;Image Files(*.jpg);;Image Files(*.jpeg);;Image Files(*.bmp);;Image Files(*.gif);;All Files(*.*)</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображения (*.png);;Изображения (*.jpg);;Изображения (*.jpeg);;Изображения (*.bmp);;Изображения (*.gif);;Все файлы (*.*)</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить изображение</translation>
     </message>
 </context>
 <context>
     <name>ImageWindow</name>
     <message>
         <source>Open Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть изображение</translation>
     </message>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить изображение</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished"></translation>
+        <translation>Копировать</translation>
     </message>
     <message>
         <source>Paste</source>
-        <translation type="unfinished"></translation>
+        <translation>Вставить</translation>
     </message>
     <message>
         <source>Open Image...</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть изображение...</translation>
     </message>
     <message>
         <source>Save As...</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить как...</translation>
     </message>
     <message>
         <source>Grayscale</source>
-        <translation type="unfinished"></translation>
+        <translation>Серая шкала</translation>
     </message>
     <message>
         <source>Inverse</source>
-        <translation type="unfinished"></translation>
+        <translation>Обратное</translation>
     </message>
     <message>
         <source>Rotate +90</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот на +90</translation>
     </message>
     <message>
         <source>Rotate -90</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот на -90</translation>
     </message>
     <message>
         <source>H Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>H Переворот</translation>
     </message>
     <message>
         <source>V Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>V-образный переворот</translation>
     </message>
     <message>
         <source>Background</source>
-        <translation type="unfinished"></translation>
+        <translation>Предпосылки</translation>
     </message>
     <message>
         <source>White</source>
-        <translation type="unfinished"></translation>
+        <translation>Белый</translation>
     </message>
     <message>
         <source>Gray</source>
-        <translation type="unfinished"></translation>
+        <translation>Серый</translation>
     </message>
     <message>
         <source>Black</source>
-        <translation type="unfinished"></translation>
+        <translation>Черный</translation>
     </message>
     <message>
         <source>Zoom : </source>
-        <translation type="unfinished"></translation>
+        <translation>Увеличение:</translation>
     </message>
     <message>
         <source>Opacity : </source>
-        <translation type="unfinished"></translation>
+        <translation>Непрозрачность:</translation>
     </message>
     <message>
         <source>Transparent Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачный ввод</translation>
     </message>
     <message>
         <source>Recover</source>
-        <translation type="unfinished"></translation>
+        <translation>Восстановить</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>Magnifier</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
 </context>
 <context>
     <name>NetTencent</name>
     <message>
         <source>Tencent cloud extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent Cloud извлечение текста</translation>
     </message>
     <message>
         <source>BaiDu cloud extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>BaiDu cloud извлечение текста</translation>
     </message>
     <message>
         <source>Tencent cloud image translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевод изображения Tencent Cloud</translation>
     </message>
     <message>
         <source>BaiDu cloud image translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевод изображений в облаке BaiDu</translation>
     </message>
     <message>
         <source>YouDao cloud image translate</source>
-        <translation type="unfinished"></translation>
+        <translation>YouDao облачный перевод изображений</translation>
     </message>
     <message>
         <source>NETWORK ERROR</source>
-        <translation type="unfinished"></translation>
+        <translation>ОШИБКА СЕТИ</translation>
     </message>
     <message>
         <source>Status Code: </source>
-        <translation type="unfinished"></translation>
+        <translation>Код статуса:</translation>
     </message>
     <message>
         <source>
 Reason Phrase: </source>
-        <translation type="unfinished"></translation>
+        <translation>Причина:</translation>
     </message>
     <message>
         <source>Warning</source>
-        <translation type="unfinished"></translation>
+        <translation>Предупреждение</translation>
     </message>
     <message>
         <source>Your Baidu Yun API Secret [ID Or Key] is empty, please check and re-enter it!</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваш секретный ключ Baidu Yun API [ID или ключ] пуст, пожалуйста, проверьте и введите его заново!</translation>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако</translation>
     </message>
     <message>
         <source>Tencent Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако Tencent</translation>
     </message>
     <message>
         <source>BaiDu Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако BaiDu</translation>
     </message>
     <message>
         <source>BaiDu Cloud Picture Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевод изображений BaiDu Cloud</translation>
     </message>
     <message>
         <source>YouDao Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако YouDao</translation>
     </message>
     <message>
         <source>    [%1] time: %2 s %3 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>[%1] время: %2 с %3 мс</translation>
     </message>
 </context>
 <context>
     <name>OcrUI</name>
     <message>
         <source>OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Import PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>Импорт PDF</translation>
     </message>
     <message>
         <source>Open PDF file</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть файл PDF</translation>
     </message>
     <message>
         <source>PDF file (*.pdf)</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл PDF (*.pdf)</translation>
     </message>
 </context>
 <context>
     <name>PathEdit</name>
     <message>
         <source>Browse</source>
-        <translation type="unfinished"></translation>
+        <translation>Просмотр</translation>
     </message>
 </context>
 <context>
     <name>PdfViewer</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation>Закрыть</translation>
     </message>
 </context>
 <context>
     <name>QObject</name>
     <message>
         <source>Your current version is outdated. Please download the latest version from &lt;a href=&apos;https://sunnycapturer.xmuli.tech/&apos;&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; or contact developer at &lt;a href=&apos;mailto:xmulitech@gmail.com&apos;&gt;xmulitech@gmail.com&lt;/a&gt; for the download link.</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша текущая версия устарела. Пожалуйста, загрузите последнюю версию с сайта &lt;a href=„https://sunnycapturer.xmuli.tech/“&gt;https://sunnycapturer.xmuli.tech/&lt;/a&gt; или обратитесь к разработчику по адресу &lt;a href=„mailto:xmulitech@gmail.com“&gt;xmulitech@gmail.com&lt;/a&gt; для получения ссылки для загрузки.</translation>
     </message>
     <message>
         <source>Version Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление версии</translation>
     </message>
     <message>
         <source>CRASH</source>
-        <translation type="unfinished"></translation>
+        <translation>АВАРИЯ</translation>
     </message>
     <message>
         <source>Tencent Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако Tencent</translation>
     </message>
     <message>
         <source>Baidu Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако Baidu</translation>
     </message>
     <message>
         <source>Offline Local CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Автономный локальный процессор</translation>
     </message>
     <message>
         <source>Offline Local GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>Офлайн локальный графический процессор</translation>
     </message>
     <message>
         <source>Youdao Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>Облако Youdao</translation>
     </message>
     <message>
         <source>Simplified Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Упрощенный китайский</translation>
     </message>
     <message>
         <source>Traditional Chinese</source>
-        <translation type="unfinished"></translation>
+        <translation>Традиционный китайский</translation>
     </message>
     <message>
         <source>English</source>
-        <translation type="unfinished"></translation>
+        <translation>Английский</translation>
     </message>
     <message>
         <source>Japanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Японский</translation>
     </message>
     <message>
         <source>Korean</source>
-        <translation type="unfinished"></translation>
+        <translation>Корейский</translation>
     </message>
     <message>
         <source>Russian</source>
-        <translation type="unfinished"></translation>
+        <translation>Русский</translation>
     </message>
     <message>
         <source>French</source>
-        <translation type="unfinished"></translation>
+        <translation>Французский</translation>
     </message>
     <message>
         <source>German</source>
-        <translation type="unfinished"></translation>
+        <translation>Немецкий</translation>
     </message>
     <message>
         <source>Italian</source>
-        <translation type="unfinished"></translation>
+        <translation>Итальянский</translation>
     </message>
     <message>
         <source>Spanish</source>
-        <translation type="unfinished"></translation>
+        <translation>Испанский</translation>
     </message>
     <message>
         <source>Portuguese</source>
-        <translation type="unfinished"></translation>
+        <translation>Португальский</translation>
     </message>
     <message>
         <source>Malay</source>
-        <translation type="unfinished"></translation>
+        <translation>Малайский</translation>
     </message>
     <message>
         <source>Thai</source>
-        <translation type="unfinished"></translation>
+        <translation>Тайский</translation>
     </message>
     <message>
         <source>Vietnamese</source>
-        <translation type="unfinished"></translation>
+        <translation>Вьетнамский</translation>
     </message>
     <message>
         <source>Auto detect</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматическое определение</translation>
     </message>
     <message>
         <source>Dutch</source>
-        <translation type="unfinished"></translation>
+        <translation>Голландский</translation>
     </message>
     <message>
         <source>Danish</source>
-        <translation type="unfinished"></translation>
+        <translation>Датский</translation>
     </message>
     <message>
         <source>Swedish</source>
-        <translation type="unfinished"></translation>
+        <translation>Шведский</translation>
     </message>
     <message>
         <source>Indonesian</source>
-        <translation type="unfinished"></translation>
+        <translation>Индонезийский</translation>
     </message>
     <message>
         <source>Polish</source>
-        <translation type="unfinished"></translation>
+        <translation>Польский</translation>
     </message>
     <message>
         <source>Romanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Румынский</translation>
     </message>
     <message>
         <source>Turkish</source>
-        <translation type="unfinished"></translation>
+        <translation>Турецкий</translation>
     </message>
     <message>
         <source>Greek</source>
-        <translation type="unfinished"></translation>
+        <translation>Греческий</translation>
     </message>
     <message>
         <source>Hungarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Венгерский</translation>
     </message>
     <message>
         <source>Arabic</source>
-        <translation type="unfinished"></translation>
+        <translation>Арабский</translation>
     </message>
     <message>
         <source>Hindi</source>
-        <translation type="unfinished"></translation>
+        <translation>Хинди</translation>
     </message>
     <message>
         <source>Afrikaans</source>
-        <translation type="unfinished"></translation>
+        <translation>Африкаанс</translation>
     </message>
     <message>
         <source>Azeerbaijani</source>
-        <translation type="unfinished"></translation>
+        <translation>Азербайджанец</translation>
     </message>
     <message>
         <source>Belarusian</source>
-        <translation type="unfinished"></translation>
+        <translation>Белорусский</translation>
     </message>
     <message>
         <source>Bulgarian</source>
-        <translation type="unfinished"></translation>
+        <translation>Болгарский</translation>
     </message>
     <message>
         <source>Bangla</source>
-        <translation type="unfinished"></translation>
+        <translation>Бангла</translation>
     </message>
     <message>
         <source>Bosnian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Боснийский (Латынь)</translation>
     </message>
     <message>
         <source>Catalan</source>
-        <translation type="unfinished"></translation>
+        <translation>Каталонский</translation>
     </message>
     <message>
         <source>Cebuano</source>
-        <translation type="unfinished"></translation>
+        <translation>Кебуано</translation>
     </message>
     <message>
         <source>Corsican</source>
-        <translation type="unfinished"></translation>
+        <translation>Корсиканец</translation>
     </message>
     <message>
         <source>Czech</source>
-        <translation type="unfinished"></translation>
+        <translation>Чешский</translation>
     </message>
     <message>
         <source>Welsh</source>
-        <translation type="unfinished"></translation>
+        <translation>Валлийский</translation>
     </message>
     <message>
         <source>Esperanto</source>
-        <translation type="unfinished"></translation>
+        <translation>Эсперанто</translation>
     </message>
     <message>
         <source>Estonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Эстонский</translation>
     </message>
     <message>
         <source>Basque</source>
-        <translation type="unfinished"></translation>
+        <translation>Баскский</translation>
     </message>
     <message>
         <source>Persian</source>
-        <translation type="unfinished"></translation>
+        <translation>Персидский</translation>
     </message>
     <message>
         <source>Finnish</source>
-        <translation type="unfinished"></translation>
+        <translation>Финский</translation>
     </message>
     <message>
         <source>Frisian</source>
-        <translation type="unfinished"></translation>
+        <translation>Фризский</translation>
     </message>
     <message>
         <source>Irish</source>
-        <translation type="unfinished"></translation>
+        <translation>Ирландский</translation>
     </message>
     <message>
         <source>Scots Gaelic</source>
-        <translation type="unfinished"></translation>
+        <translation>Шотландский гэльский</translation>
     </message>
     <message>
         <source>Galician</source>
-        <translation type="unfinished"></translation>
+        <translation>Галисийский</translation>
     </message>
     <message>
         <source>Gujarati</source>
-        <translation type="unfinished"></translation>
+        <translation>Гуджарати</translation>
     </message>
     <message>
         <source>Hausa</source>
-        <translation type="unfinished"></translation>
+        <translation>Хауса</translation>
     </message>
     <message>
         <source>Hawaiian</source>
-        <translation type="unfinished"></translation>
+        <translation>Гавайский</translation>
     </message>
     <message>
         <source>Hebrew</source>
-        <translation type="unfinished"></translation>
+        <translation>Еврей</translation>
     </message>
     <message>
         <source>Croatian</source>
-        <translation type="unfinished"></translation>
+        <translation>Хорватский</translation>
     </message>
     <message>
         <source>Haitian Creole</source>
-        <translation type="unfinished"></translation>
+        <translation>Гаитянский креол</translation>
     </message>
     <message>
         <source>Armenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Армянский</translation>
     </message>
     <message>
         <source>Igbo</source>
-        <translation type="unfinished"></translation>
+        <translation>Игбо</translation>
     </message>
     <message>
         <source>Icelandic</source>
-        <translation type="unfinished"></translation>
+        <translation>Исландский</translation>
     </message>
     <message>
         <source>Javanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Яванский</translation>
     </message>
     <message>
         <source>Georgian</source>
-        <translation type="unfinished"></translation>
+        <translation>Грузинский</translation>
     </message>
     <message>
         <source>Kazakh</source>
-        <translation type="unfinished"></translation>
+        <translation>Казах</translation>
     </message>
     <message>
         <source>Khmer</source>
-        <translation type="unfinished"></translation>
+        <translation>Кхмерский</translation>
     </message>
     <message>
         <source>Kannada</source>
-        <translation type="unfinished"></translation>
+        <translation>Каннада</translation>
     </message>
     <message>
         <source>Kurdish</source>
-        <translation type="unfinished"></translation>
+        <translation>Курдский</translation>
     </message>
     <message>
         <source>Kyrgyz</source>
-        <translation type="unfinished"></translation>
+        <translation>Киргиз</translation>
     </message>
     <message>
         <source>Latin</source>
-        <translation type="unfinished"></translation>
+        <translation>Латинский</translation>
     </message>
     <message>
         <source>Luxembourgish</source>
-        <translation type="unfinished"></translation>
+        <translation>Люксембургский</translation>
     </message>
     <message>
         <source>Lao</source>
-        <translation type="unfinished"></translation>
+        <translation>Лаосский</translation>
     </message>
     <message>
         <source>Lithuanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Литовский</translation>
     </message>
     <message>
         <source>Latvian</source>
-        <translation type="unfinished"></translation>
+        <translation>Латышский</translation>
     </message>
     <message>
         <source>Malagasy</source>
-        <translation type="unfinished"></translation>
+        <translation>Малагасийский</translation>
     </message>
     <message>
         <source>Maori</source>
-        <translation type="unfinished"></translation>
+        <translation>Маори</translation>
     </message>
     <message>
         <source>Macedonian</source>
-        <translation type="unfinished"></translation>
+        <translation>Македонский</translation>
     </message>
     <message>
         <source>Malayalam</source>
-        <translation type="unfinished"></translation>
+        <translation>Малаялам</translation>
     </message>
     <message>
         <source>Mongolian</source>
-        <translation type="unfinished"></translation>
+        <translation>Монгольский</translation>
     </message>
     <message>
         <source>Marathi</source>
-        <translation type="unfinished"></translation>
+        <translation>Маратхи</translation>
     </message>
     <message>
         <source>Maltese</source>
-        <translation type="unfinished"></translation>
+        <translation>Мальтийский</translation>
     </message>
     <message>
         <source>Myanmar (Burmese)</source>
-        <translation type="unfinished"></translation>
+        <translation>Мьянма (Бирманский)</translation>
     </message>
     <message>
         <source>Nepali</source>
-        <translation type="unfinished"></translation>
+        <translation>Непальский</translation>
     </message>
     <message>
         <source>Norwegian</source>
-        <translation type="unfinished"></translation>
+        <translation>Норвежский</translation>
     </message>
     <message>
         <source>Nyanja (Chichewa)</source>
-        <translation type="unfinished"></translation>
+        <translation>Ньянджа (Чичева)</translation>
     </message>
     <message>
         <source>Punjabi</source>
-        <translation type="unfinished"></translation>
+        <translation>Панджаби</translation>
     </message>
     <message>
         <source>Pashto</source>
-        <translation type="unfinished"></translation>
+        <translation>Пушту</translation>
     </message>
     <message>
         <source>Sindhi</source>
-        <translation type="unfinished"></translation>
+        <translation>Синдхи</translation>
     </message>
     <message>
         <source>Sinhala (Sinhalese)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сингальский (Сингальский)</translation>
     </message>
     <message>
         <source>Slovak</source>
-        <translation type="unfinished"></translation>
+        <translation>Словак</translation>
     </message>
     <message>
         <source>Slovenian</source>
-        <translation type="unfinished"></translation>
+        <translation>Словенский</translation>
     </message>
     <message>
         <source>Samoan</source>
-        <translation type="unfinished"></translation>
+        <translation>Самоанский</translation>
     </message>
     <message>
         <source>Shona</source>
-        <translation type="unfinished"></translation>
+        <translation>Шона</translation>
     </message>
     <message>
         <source>Somali</source>
-        <translation type="unfinished"></translation>
+        <translation>Сомалийский</translation>
     </message>
     <message>
         <source>Albanian</source>
-        <translation type="unfinished"></translation>
+        <translation>Албанский</translation>
     </message>
     <message>
         <source>Serbian (Cyrillic)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сербский (кириллица)</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation type="unfinished"></translation>
+        <translation>Сербский (Латынь)</translation>
     </message>
     <message>
         <source>Sesotho</source>
-        <translation type="unfinished"></translation>
+        <translation>Сесото</translation>
     </message>
     <message>
         <source>Sundanese</source>
-        <translation type="unfinished"></translation>
+        <translation>Сунданский</translation>
     </message>
     <message>
         <source>Kiswahili</source>
-        <translation type="unfinished"></translation>
+        <translation>Суахили</translation>
     </message>
     <message>
         <source>Tamil</source>
-        <translation type="unfinished"></translation>
+        <translation>Тамильский</translation>
     </message>
     <message>
         <source>Telugu</source>
-        <translation type="unfinished"></translation>
+        <translation>Телугу</translation>
     </message>
     <message>
         <source>Tajik</source>
-        <translation type="unfinished"></translation>
+        <translation>Таджикский</translation>
     </message>
     <message>
         <source>Filipino</source>
-        <translation type="unfinished"></translation>
+        <translation>Филиппинец</translation>
     </message>
     <message>
         <source>Ukrainian</source>
-        <translation type="unfinished"></translation>
+        <translation>Украинский</translation>
     </message>
     <message>
         <source>Urdu</source>
-        <translation type="unfinished"></translation>
+        <translation>Урду</translation>
     </message>
     <message>
         <source>Uzbek</source>
-        <translation type="unfinished"></translation>
+        <translation>Узбекский</translation>
     </message>
     <message>
         <source>Xhosa</source>
-        <translation type="unfinished"></translation>
+        <translation>Коса</translation>
     </message>
     <message>
         <source>Yiddish</source>
-        <translation type="unfinished"></translation>
+        <translation>Идиш</translation>
     </message>
     <message>
         <source>Yoruba</source>
-        <translation type="unfinished"></translation>
+        <translation>Йоруба</translation>
     </message>
     <message>
         <source>Zulu</source>
-        <translation type="unfinished"></translation>
+        <translation>Зулусский</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorder</name>
     <message>
         <source>Could not capture the given window</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось захватить указанное окно</translation>
     </message>
     <message>
         <source>Failed to initialize the recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось инициализировать записывающее устройство</translation>
     </message>
     <message>
         <source>Could not open the encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть кодировщик</translation>
     </message>
 </context>
 <context>
     <name>ScreenShoter</name>
     <message>
         <source>Save Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить изображение</translation>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>Успех</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>Неудача</translation>
     </message>
     <message>
         <source>Image save to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение сохранено в %1</translation>
     </message>
 </context>
 <context>
     <name>SettingWindow</name>
     <message>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Настройки</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished"></translation>
+        <translation>Общее</translation>
     </message>
     <message>
         <source>Hotkeys</source>
-        <translation type="unfinished"></translation>
+        <translation>Горячие клавиши</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Снимок экрана</translation>
     </message>
     <message>
         <source>Video Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Видеозапись</translation>
     </message>
     <message>
         <source>GIF Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись GIF</translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>Устройства</translation>
     </message>
     <message>
         <source>OCR</source>
-        <translation type="unfinished"></translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Image Translate</source>
-        <translation type="unfinished"></translation>
+        <translation>Перевод изображения</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Обновление</translation>
     </message>
     <message>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation>О нас</translation>
     </message>
     <message>
         <source>Run on Startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Запуск при запуске</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык</translation>
     </message>
     <message>
         <source>Settings File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл настроек</translation>
     </message>
     <message>
         <source>Auto</source>
-        <translation type="unfinished"></translation>
+        <translation>Авто</translation>
     </message>
     <message>
         <source>Dark</source>
-        <translation type="unfinished"></translation>
+        <translation>Темный</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation type="unfinished"></translation>
+        <translation>Свет</translation>
     </message>
     <message>
         <source>Theme</source>
-        <translation type="unfinished"></translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <source>Repeat Last Screenshot</source>
-        <translation type="unfinished"></translation>
+        <translation>Повторить последний снимок экрана</translation>
     </message>
     <message>
         <source>Preview Clipboard</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр буфера обмена</translation>
     </message>
     <message>
         <source>Toggle Previews</source>
-        <translation type="unfinished"></translation>
+        <translation>Переключить предварительный просмотр</translation>
     </message>
     <message>
         <source>Quick Look</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрый просмотр</translation>
     </message>
     <message>
         <source>Transparent Input</source>
-        <translation type="unfinished"></translation>
+        <translation>Прозрачный ввод</translation>
     </message>
     <message>
         <source>Gif Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>Запись GIF</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished"></translation>
+        <translation>Внешний вид</translation>
     </message>
     <message>
         <source>Border Width</source>
-        <translation type="unfinished"></translation>
+        <translation>Ширина границы</translation>
     </message>
     <message>
         <source>Border Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет границы</translation>
     </message>
     <message>
         <source>Border Style</source>
-        <translation type="unfinished"></translation>
+        <translation>Пограничный стиль</translation>
     </message>
     <message>
         <source>Mask Color</source>
-        <translation type="unfinished"></translation>
+        <translation>Цвет маски</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>Save Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Сохранить путь</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished"></translation>
+        <translation>Изображение</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручное сохранение</translation>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое сохранение</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Автосохранение</translation>
     </message>
     <message>
         <source>Select Quick Save Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать каталог для быстрого сохранения</translation>
     </message>
     <message>
         <source>Select Auto Save Directory</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать каталог для автоматического сохранения</translation>
     </message>
     <message>
         <source>Show Region</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать регион</translation>
     </message>
     <message>
         <source>Floating Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>Плавающее меню</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат</translation>
     </message>
     <message>
         <source>Captured by Default</source>
-        <translation type="unfinished"></translation>
+        <translation>Захвачен по умолчанию</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>Мышь</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>Микрофон</translation>
     </message>
     <message>
         <source>System Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Система аудио</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <source>Software x264 [H.264 / AVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Программное обеспечение x264 [H.264 / AVC]</translation>
     </message>
     <message>
         <source>Software x265 [H.265 / HEVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Программное обеспечение x265 [H.265 / HEVC]</translation>
     </message>
     <message>
         <source>Hardware NVENC [H.264 / AVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Аппаратное обеспечение NVENC [H.264 / AVC]</translation>
     </message>
     <message>
         <source>Hardware NVENC [H.265 / HEVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Аппаратное обеспечение NVENC [H.265 / HEVC]</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Энкодер</translation>
     </message>
     <message>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота кадров</translation>
     </message>
     <message>
         <source>Rate Control</source>
-        <translation type="unfinished"></translation>
+        <translation>Управление скоростью</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished"></translation>
+        <translation>Предустановка</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Профиль</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="unfinished"></translation>
+        <translation>Настроить</translation>
     </message>
     <message>
         <source>Pixel Format</source>
-        <translation type="unfinished"></translation>
+        <translation>Формат пикселей</translation>
     </message>
     <message>
         <source>Color Space</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовое пространство</translation>
     </message>
     <message>
         <source>Color Range</source>
-        <translation type="unfinished"></translation>
+        <translation>Цветовая гамма</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио</translation>
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Расположение каналов</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота дискретизации</translation>
     </message>
     <message>
         <source>Params</source>
-        <translation type="unfinished"></translation>
+        <translation>Параметры</translation>
     </message>
     <message>
         <source>Max Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>Максимальное количество цветов</translation>
     </message>
     <message>
         <source>Dither</source>
-        <translation type="unfinished"></translation>
+        <translation>Дрожание</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished"></translation>
+        <translation>Извлечь текст</translation>
     </message>
     <message>
         <source>Engine</source>
-        <translation type="unfinished"></translation>
+        <translation>Двигатель</translation>
     </message>
     <message>
         <source>Private account</source>
-        <translation type="unfinished"></translation>
+        <translation>Личный кабинет</translation>
     </message>
     <message>
         <source>If empty, use the default token.</source>
-        <translation type="unfinished"></translation>
+        <translation>Если поле пустое, используйте токен по умолчанию.</translation>
     </message>
     <message>
         <source>Secret ID</source>
-        <translation type="unfinished"></translation>
+        <translation>Секретный идентификатор</translation>
     </message>
     <message>
         <source>Secret Key</source>
-        <translation type="unfinished"></translation>
+        <translation>Секретный ключ</translation>
     </message>
     <message>
         <source>Source language</source>
-        <translation type="unfinished"></translation>
+        <translation>Исходный язык</translation>
     </message>
     <message>
         <source>Target language</source>
-        <translation type="unfinished"></translation>
+        <translation>Целевой язык</translation>
     </message>
     <message>
         <source>Private Account</source>
-        <translation type="unfinished"></translation>
+        <translation>Личный кабинет</translation>
     </message>
     <message>
         <source>Tencent Cloud Language [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Tencent Cloud Language [%1]</translation>
     </message>
     <message>
         <source>BaiDu Cloud Language [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Язык BaiDu Cloud [%1]</translation>
     </message>
     <message>
         <source>YouDao Cloud Language [%1]</source>
-        <translation type="unfinished"></translation>
+        <translation>Облачный язык YouDao [%1]</translation>
     </message>
     <message>
         <source>Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>Динамик</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>Камера</translation>
     </message>
     <message>
         <source>No Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Без прокси</translation>
     </message>
     <message>
         <source>System Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Системный прокси</translation>
     </message>
     <message>
         <source>Check for updates on startup</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверять наличие обновлений при запуске</translation>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished"></translation>
+        <translation>Прокси</translation>
     </message>
     <message>
         <source>Check update</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить обновления</translation>
     </message>
 </context>
 <context>
     <name>SubMenuBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
 </context>
 <context>
     <name>SubOutput</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Image quality</source>
-        <translation type="unfinished"></translation>
+        <translation>Качество изображения</translation>
     </message>
     <message>
         <source>Range: [0,100] or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files,
 and specify -1 to let Sunny decide for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Диапазон: [0,100] или -1. Укажите 0, чтобы получить небольшие сжатые файлы, 100 — для больших несжатых файлов, а -1 — чтобы Sunny сам принял решение.</translation>
     </message>
     <message>
         <source>Manual Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручное сохранение</translation>
     </message>
     <message>
         <source>File name</source>
-        <translation type="unfinished"></translation>
+        <translation>Имя файла</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished"></translation>
+        <translation>Предварительный просмотр</translation>
     </message>
     <message>
         <source>Remeber last used image extension</source>
-        <translation type="unfinished"></translation>
+        <translation>Запомнить последнее использованное расширение изображения</translation>
     </message>
     <message>
         <source>Skip the save dialog and directly save the last folder silently.</source>
-        <translation type="unfinished"></translation>
+        <translation>Пропустить диалоговое окно сохранения и напрямую сохранить последнюю папку в фоновом режиме.</translation>
     </message>
     <message>
         <source>Quick Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Быстрое сохранение</translation>
     </message>
     <message>
         <source>Path</source>
-        <translation type="unfinished"></translation>
+        <translation>Путь</translation>
     </message>
     <message>
         <source>Show notification</source>
-        <translation type="unfinished"></translation>
+        <translation>Показать уведомление</translation>
     </message>
     <message>
         <source>Ctrl + Shift + S</source>
-        <translation type="unfinished"></translation>
+        <translation>Ctrl + Shift + S</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Открыть папку</translation>
     </message>
     <message>
         <source>Change Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Изменить папку</translation>
     </message>
     <message>
         <source>Auto Save</source>
-        <translation type="unfinished"></translation>
+        <translation>Автосохранение</translation>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Автоматически сохранять каждый скриншот будет сохраняться в этой папке.</translation>
     </message>
     <message>
         <source>Enable</source>
-        <translation type="unfinished"></translation>
+        <translation>Включить</translation>
     </message>
 </context>
 <context>
     <name>SubUpdate</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Manual website download</source>
-        <translation type="unfinished"></translation>
+        <translation>Ручная загрузка веб-сайта</translation>
     </message>
     <message>
         <source>Check for updates</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить наличие обновлений</translation>
     </message>
     <message>
         <source>Proxy type</source>
-        <translation type="unfinished"></translation>
+        <translation>Тип прокси</translation>
     </message>
     <message>
         <source>Server</source>
-        <translation type="unfinished"></translation>
+        <translation>Сервер</translation>
     </message>
     <message>
         <source>Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест</translation>
     </message>
     <message>
         <source>Every</source>
-        <translation type="unfinished"></translation>
+        <translation>Каждый</translation>
     </message>
     <message>
         <source>day</source>
-        <translation type="unfinished"></translation>
+        <translation>день</translation>
     </message>
     <message>
         <source>Join the Insider Program</source>
-        <translation type="unfinished"></translation>
+        <translation>Присоединяйтесь к программе для инсайдеров</translation>
     </message>
 </context>
 <context>
     <name>SystemInfo</name>
     <message>
         <source>Idx</source>
-        <translation type="unfinished"></translation>
+        <translation>Idx</translation>
     </message>
     <message>
         <source>DevicePixelRatio</source>
-        <translation type="unfinished"></translation>
+        <translation>Соотношение пикселей устройства</translation>
     </message>
     <message>
         <source>Logical DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Логическое DPI</translation>
     </message>
     <message>
         <source>Physical DPI</source>
-        <translation type="unfinished"></translation>
+        <translation>Физическое разрешение DPI</translation>
     </message>
     <message>
         <source>RefreshRate</source>
-        <translation type="unfinished"></translation>
+        <translation>Частота обновления</translation>
     </message>
     <message>
         <source>Geometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Геометрия</translation>
     </message>
     <message>
         <source>PhysicalSize</source>
-        <translation type="unfinished"></translation>
+        <translation>Физический размер</translation>
     </message>
     <message>
         <source>VirtualGeometry</source>
-        <translation type="unfinished"></translation>
+        <translation>Виртуальная геометрия</translation>
     </message>
 </context>
 <context>
     <name>UpdateUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished"></translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Ваша версия:</translation>
     </message>
     <message>
         <source>Latest version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Последняя версия:</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation type="unfinished"></translation>
+        <translation>Последняя проверка:</translation>
     </message>
     <message>
         <source>Recheck</source>
-        <translation type="unfinished"></translation>
+        <translation>Перепроверить</translation>
     </message>
     <message>
         <source>Select download version:</source>
-        <translation type="unfinished"></translation>
+        <translation>Выберите версию для скачивания:</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>Скачать</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>Отменить</translation>
     </message>
 </context>
 <context>
     <name>VersionUpdater</name>
     <message>
         <source>Check For Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Проверить наличие обновлений</translation>
     </message>
     <message>
         <source>Network error occurred: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Произошла сетевая ошибка: %1</translation>
     </message>
     <message>
         <source>Network URL Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест URL-адреса сети</translation>
     </message>
     <message>
         <source>Request Limit</source>
-        <translation type="unfinished"></translation>
+        <translation>Лимит запросов</translation>
     </message>
     <message>
         <source>No Update</source>
-        <translation type="unfinished"></translation>
+        <translation>Нет обновлений</translation>
     </message>
     <message>
         <source>You are already on the latest version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Вы уже используете последнюю версию.</translation>
     </message>
     <message>
         <source>Install new version</source>
-        <translation type="unfinished"></translation>
+        <translation>Установить новую версию</translation>
     </message>
     <message>
         <source>A new version [%1] is available. Do you want to install it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Доступна новая версия [%1]. Хотите установить ее сейчас?</translation>
     </message>
     <message>
         <source>GitHub Network Test</source>
-        <translation type="unfinished"></translation>
+        <translation>Тест сети GitHub</translation>
     </message>
     <message>
         <source>Down url results: %1
 (url: %2)</source>
-        <translation type="unfinished"></translation>
+        <translation>Результаты по URL: %1 (URL: %2)</translation>
     </message>
 </context>
 <context>
     <name>VideoPlayer</name>
     <message>
         <source>Failed to open the video decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть видеодекодер</translation>
     </message>
     <message>
         <source>Failed to open the audio output device</source>
-        <translation type="unfinished"></translation>
+        <translation>Не удалось открыть устройство вывода звука</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>Видео</translation>
     </message>
     <message>
         <source>H Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>H Переворот</translation>
     </message>
     <message>
         <source>V Flip</source>
-        <translation type="unfinished"></translation>
+        <translation>V-образный переворот</translation>
     </message>
     <message>
         <source>Rotate 0</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот 0</translation>
     </message>
     <message>
         <source>Rotate 90</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть на 90</translation>
     </message>
     <message>
         <source>Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>Повернуть на 180</translation>
     </message>
     <message>
         <source>Rotate 270</source>
-        <translation type="unfinished"></translation>
+        <translation>Поворот на 270</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>Аудио</translation>
     </message>
     <message>
         <source>Select Audio Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать аудиопоток</translation>
     </message>
     <message>
         <source>Renderer</source>
-        <translation type="unfinished"></translation>
+        <translation>Рендерер</translation>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Субтитры</translation>
     </message>
     <message>
         <source>Select Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Выбрать субтитры</translation>
     </message>
     <message>
         <source>Add Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить субтитры</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>Свойства</translation>
     </message>
 </context>
 </TS>
