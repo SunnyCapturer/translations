@@ -40,6 +40,7 @@ When the text file *.ts is translated, I will merge it into the programme and re
 | Abbreviations | Name             | English Name        | Translator                                         |
 | ------------- | ---------------- | ------------------- | -------------------------------------------------- |
 | pt_br         | Português Brasil | Portuguese (Brazil) | [Thiago Dalsoto](https://github.com/thiagodalsoto) |
+| ru_ru         | русский          | Russian             | [asdefasdf](https://github.com/asdefasdf)          |
 | de            | Deutsch          | German              | [Toms Photoart](https://github.com/tomsphotoart)   |
 | ja_jp         | 日本語           | Japanese            | [coolvitto](https://github.com/coolvitto)          |
 | zh_cn         | 简体中文         | Simplified Chinese  | -                                                  |
