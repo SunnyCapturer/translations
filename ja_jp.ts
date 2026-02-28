@@ -5,19 +5,19 @@
     <name>CameraPlayer</name>
     <message>
         <source>H Flip</source>
-        <translation type="unfinished">水平方向に反転</translation>
+        <translation>水平方向に反転</translation>
     </message>
     <message>
         <source>V Flip</source>
-        <translation type="unfinished">垂直方向に反転</translation>
+        <translation>垂直方向に反転</translation>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>Failed to open the camera</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラを開けませんでした</translation>
     </message>
 </context>
 <context>
@@ -40,31 +40,31 @@
     </message>
     <message>
         <source>Record Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ビデオの録画</translation>
     </message>
     <message>
         <source>Record GIF</source>
-        <translation type="unfinished"></translation>
+        <translation>GIFの録画</translation>
     </message>
     <message>
         <source>Open Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラを開く</translation>
     </message>
     <message>
         <source>No camera found</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラが見つかりません</translation>
     </message>
     <message>
         <source>%1 is runing</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 は実行中です</translation>
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation type="unfinished"></translation>
+        <translation>トレイアイコンから操作できます。</translation>
     </message>
     <message>
         <source>OCR</source>
-        <translation type="unfinished">OCR</translation>
+        <translation>OCR</translation>
     </message>
 </context>
 <context>
@@ -82,71 +82,71 @@
     </message>
     <message>
         <source>Rectangle (Ctrl+1)</source>
-        <translation type="unfinished"></translation>
+        <translation>矩形 (Ctrl+1)</translation>
     </message>
     <message>
         <source>Ellipse (Ctrl+2)</source>
-        <translation type="unfinished"></translation>
+        <translation>楕円 (Ctrl+2)</translation>
     </message>
     <message>
         <source>Arrow (Ctrl+3)</source>
-        <translation type="unfinished"></translation>
+        <translation>矢印 (Ctrl+3)</translation>
     </message>
     <message>
         <source>Pencil (Ctrl+4) (B)</source>
-        <translation type="unfinished"></translation>
+        <translation>鉛筆 (Ctrl+4) (B)</translation>
     </message>
     <message>
         <source>Blur/Mosaic (Ctrl+5)</source>
-        <translation type="unfinished"></translation>
+        <translation>ぼかし/モザイク (Ctrl+5)</translation>
     </message>
     <message>
         <source>Text (Ctrl+6) (T)</source>
-        <translation type="unfinished"></translation>
+        <translation>テキスト (Ctrl+6) (T)</translation>
     </message>
     <message>
         <source>Image (Ctrl+7)</source>
-        <translation type="unfinished"></translation>
+        <translation>画像 (Ctrl+7)</translation>
     </message>
     <message>
         <source>Counter (Ctrl+8)</source>
-        <translation type="unfinished"></translation>
+        <translation>カウンタ (Ctrl+8)</translation>
     </message>
     <message>
         <source>Eraser (E)</source>
-        <translation type="unfinished"></translation>
+        <translation>消しゴム (E)</translation>
     </message>
     <message>
         <source>Translate</source>
-        <translation type="unfinished">翻訳</translation>
+        <translation>翻訳</translation>
     </message>
     <message>
         <source>Extract text</source>
-        <translation type="unfinished">テキストの抽出</translation>
+        <translation>テキストの抽出</translation>
     </message>
     <message>
         <source>Undo (Ctrl+Z)</source>
-        <translation type="unfinished"></translation>
+        <translation>取り消し (Ctrl+Z)</translation>
     </message>
     <message>
         <source>Redo (Ctrl+Y)</source>
-        <translation type="unfinished"></translation>
+        <translation>やり直し (Ctrl+Y)</translation>
     </message>
     <message>
         <source>Cancel Capture (Esc)</source>
-        <translation type="unfinished"></translation>
+        <translation>キャプチャをキャンセル (Esc)</translation>
     </message>
     <message>
         <source>Pin to screen (P)</source>
-        <translation type="unfinished"></translation>
+        <translation>画面にピン留め (P)</translation>
     </message>
     <message>
         <source>Save to file (Ctrl+S)</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルに保存 (Ctrl+S)</translation>
     </message>
     <message>
         <source>Copy to clipboard (Ctrl+C)</source>
-        <translation type="unfinished"></translation>
+        <translation>クリップボードにコピー (Ctrl+C)</translation>
     </message>
 </context>
 <context>
@@ -220,7 +220,7 @@
     </message>
     <message>
         <source>Zoom: %1%</source>
-        <translation>ズーム: %1%</translation>
+        <translation>ズーム : %1%</translation>
     </message>
     <message>
         <source>The crrent version does not support offline OCR, please go to the official website to download the corresponding CPU or GPU version of the DLL library, copy it to the root directory where the program is located, and then restart it to use it.
@@ -238,7 +238,7 @@
     </message>
     <message>
         <source>    [Local %1] time: %2 s %3 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>    [現地時間 %1] 時間 : %2 秒 %3 ミリ秒</translation>
     </message>
 </context>
 <context>
@@ -339,23 +339,23 @@
     <name>NetTencent</name>
     <message>
         <source>Tencent cloud extract text</source>
-        <translation>テンセントクラウド抽出テキスト</translation>
+        <translation>Tencent クラウド抽出テキスト</translation>
     </message>
     <message>
         <source>BaiDu cloud extract text</source>
-        <translation>BaiDuクラウド抽出テキスト</translation>
+        <translation>BaiDu クラウド抽出テキスト</translation>
     </message>
     <message>
         <source>Tencent cloud image translate</source>
-        <translation>テンセントクラウド画像翻訳</translation>
+        <translation>Tencent クラウド画像翻訳</translation>
     </message>
     <message>
         <source>BaiDu cloud image translate</source>
-        <translation>BaiDuクラウド画像翻訳</translation>
+        <translation>BaiDu クラウド画像翻訳</translation>
     </message>
     <message>
         <source>YouDao cloud image translate</source>
-        <translation>YouDaoクラウド画像翻訳</translation>
+        <translation>YouDao クラウド画像翻訳</translation>
     </message>
     <message>
         <source>NETWORK ERROR</source>
@@ -381,46 +381,46 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>クラウド</translation>
     </message>
     <message>
         <source>Tencent Cloud</source>
-        <translation type="unfinished">Tencent クラウド</translation>
+        <translation>Tencent クラウド</translation>
     </message>
     <message>
         <source>BaiDu Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>BaiDu クラウド</translation>
     </message>
     <message>
         <source>BaiDu Cloud Picture Translation</source>
-        <translation type="unfinished"></translation>
+        <translation>BaiDu クラウド写真翻訳</translation>
     </message>
     <message>
         <source>YouDao Cloud</source>
-        <translation type="unfinished"></translation>
+        <translation>YouDao クラウド</translation>
     </message>
     <message>
         <source>    [%1] time: %2 s %3 ms</source>
-        <translation type="unfinished"></translation>
+        <translation>    [%1] 時間 : %2 秒 %3 ミリ秒</translation>
     </message>
 </context>
 <context>
     <name>OcrUI</name>
     <message>
         <source>OCR</source>
-        <translation type="unfinished">OCR</translation>
+        <translation>OCR</translation>
     </message>
     <message>
         <source>Import PDF</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFをインポート</translation>
     </message>
     <message>
         <source>Open PDF file</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFファイルを開く</translation>
     </message>
     <message>
         <source>PDF file (*.pdf)</source>
-        <translation type="unfinished"></translation>
+        <translation>PDFファイル (*.pdf)</translation>
     </message>
 </context>
 <context>
@@ -434,7 +434,7 @@ Reason Phrase: </source>
     <name>PdfViewer</name>
     <message>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
 </context>
 <context>
@@ -505,7 +505,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Malay</source>
-        <translation></translation>
+        <translation>マレー語</translation>
     </message>
     <message>
         <source>Thai</source>
@@ -585,7 +585,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Bosnian (Latin)</source>
-        <translation>ボスニア語（ラテン語）</translation>
+        <translation>ボスニア語 (ラテン語)</translation>
     </message>
     <message>
         <source>Catalan</source>
@@ -785,7 +785,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Sinhala (Sinhalese)</source>
-        <translation>シンハラ（シンハラ語）</translation>
+        <translation>シンハラ (シンハラ語)</translation>
     </message>
     <message>
         <source>Slovak</source>
@@ -813,11 +813,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Serbian (Cyrillic)</source>
-        <translation>セルビア語（キリル文字）</translation>
+        <translation>セルビア語 (キリル文字)</translation>
     </message>
     <message>
         <source>Serbian (Latin)</source>
-        <translation>セルビア語（ラテン語）</translation>
+        <translation>セルビア語 (ラテン語)</translation>
     </message>
     <message>
         <source>Sesotho</source>
@@ -877,30 +877,30 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>CRASH</source>
-        <translation type="unfinished"></translation>
+        <translation>クラッシュ</translation>
     </message>
     <message>
         <source>Offline Local CPU</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインローカル CPU</translation>
     </message>
     <message>
         <source>Offline Local GPU</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインローカル GPU</translation>
     </message>
 </context>
 <context>
     <name>ScreenRecorder</name>
     <message>
         <source>Could not capture the given window</source>
-        <translation type="unfinished"></translation>
+        <translation>指定されたウィンドウをキャプチャできませんでした</translation>
     </message>
     <message>
         <source>Failed to initialize the recorder</source>
-        <translation type="unfinished"></translation>
+        <translation>レコーダーの初期化に失敗しました</translation>
     </message>
     <message>
         <source>Could not open the encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>エンコーダを開けませんでした</translation>
     </message>
 </context>
 <context>
@@ -911,15 +911,15 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation>成功</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation type="unfinished"></translation>
+        <translation>失敗</translation>
     </message>
     <message>
         <source>Image save to %1</source>
-        <translation type="unfinished"></translation>
+        <translation>画像を%1に保存</translation>
     </message>
 </context>
 <context>
@@ -1114,154 +1114,154 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Video Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>ビデオ録画</translation>
     </message>
     <message>
         <source>GIF Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF録画</translation>
     </message>
     <message>
         <source>Devices</source>
-        <translation type="unfinished"></translation>
+        <translation>デバイス</translation>
     </message>
     <message>
         <source>Quick Look</source>
-        <translation type="unfinished"></translation>
+        <translation>クイックルック</translation>
     </message>
     <message>
         <source>Gif Recording</source>
-        <translation type="unfinished"></translation>
+        <translation>GIF録画</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル</translation>
     </message>
     <message>
         <source>Save Path</source>
-        <translation type="unfinished"></translation>
+        <translation>保存先のパス</translation>
     </message>
     <message>
         <source>Show Region</source>
-        <translation type="unfinished"></translation>
+        <translation>領域を表示</translation>
     </message>
     <message>
         <source>Floating Menu</source>
-        <translation type="unfinished"></translation>
+        <translation>フローティングメニュー</translation>
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished"></translation>
+        <translation>フォーマット</translation>
     </message>
     <message>
         <source>Captured by Default</source>
-        <translation type="unfinished"></translation>
+        <translation>既定値でキャプチャ</translation>
     </message>
     <message>
         <source>Mouse</source>
-        <translation type="unfinished"></translation>
+        <translation>マウス</translation>
     </message>
     <message>
         <source>Microphone</source>
-        <translation type="unfinished"></translation>
+        <translation>マイク</translation>
     </message>
     <message>
         <source>System Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>システムオーディオ</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ビデオ</translation>
     </message>
     <message>
         <source>Software x264 [H.264 / AVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Software x264 [H.264 / AVC]</translation>
     </message>
     <message>
         <source>Software x265 [H.265 / HEVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Software x265 [H.265 / HEVC]</translation>
     </message>
     <message>
         <source>Hardware NVENC [H.264 / AVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware NVENC [H.264 / AVC]</translation>
     </message>
     <message>
         <source>Hardware NVENC [H.265 / HEVC]</source>
-        <translation type="unfinished"></translation>
+        <translation>Hardware NVENC [H.265 / HEVC]</translation>
     </message>
     <message>
         <source>Encoder</source>
-        <translation type="unfinished"></translation>
+        <translation>エンコーダ</translation>
     </message>
     <message>
         <source>Framerate</source>
-        <translation type="unfinished"></translation>
+        <translation>フレームレート</translation>
     </message>
     <message>
         <source>Rate Control</source>
-        <translation type="unfinished"></translation>
+        <translation>レートコントロール</translation>
     </message>
     <message>
         <source>Preset</source>
-        <translation type="unfinished">プリセット</translation>
+        <translation>プリセット</translation>
     </message>
     <message>
         <source>Profile</source>
-        <translation type="unfinished"></translation>
+        <translation>プロファイル</translation>
     </message>
     <message>
         <source>Tune</source>
-        <translation type="unfinished"></translation>
+        <translation>チューニング</translation>
     </message>
     <message>
         <source>Pixel Format</source>
-        <translation type="unfinished"></translation>
+        <translation>ピクセル形式</translation>
     </message>
     <message>
         <source>Color Space</source>
-        <translation type="unfinished"></translation>
+        <translation>色空間</translation>
     </message>
     <message>
         <source>Color Range</source>
-        <translation type="unfinished"></translation>
+        <translation>色域</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>オーディオ</translation>
     </message>
     <message>
         <source>Channel Layout</source>
-        <translation type="unfinished"></translation>
+        <translation>チャンネルレイアウト</translation>
     </message>
     <message>
         <source>Sample Rate</source>
-        <translation type="unfinished"></translation>
+        <translation>サンプリングレート</translation>
     </message>
     <message>
         <source>Params</source>
-        <translation type="unfinished"></translation>
+        <translation>パラメータ</translation>
     </message>
     <message>
         <source>Max Colors</source>
-        <translation type="unfinished"></translation>
+        <translation>最大色数</translation>
     </message>
     <message>
         <source>Dither</source>
-        <translation type="unfinished"></translation>
+        <translation>ディザリング</translation>
     </message>
     <message>
         <source>Speaker</source>
-        <translation type="unfinished"></translation>
+        <translation>スピーカー</translation>
     </message>
     <message>
         <source>Camera</source>
-        <translation type="unfinished"></translation>
+        <translation>カメラ</translation>
     </message>
 </context>
 <context>
     <name>SubMenuBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
 </context>
 <context>
@@ -1328,7 +1328,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation>すべてのスクリーンショットは自動的にこのフォルダに保存されます。</translation>
+        <translation>すべてのスクリーンショットは自動的にこのフォルダーに保存されます。</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -1336,7 +1336,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Skip the save dialog and directly save the last folder silently.</source>
-        <translation type="unfinished"></translation>
+        <translation>保存ダイアログをスキップし、最後のフォルダーを保存する。</translation>
     </message>
 </context>
 <context>
@@ -1417,35 +1417,35 @@ and specify -1 to let Sunny decide for you.</source>
     <name>UpdateUI</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Your version:</source>
-        <translation type="unfinished"></translation>
+        <translation>現在のバージョン :</translation>
     </message>
     <message>
         <source>Latest version:</source>
-        <translation type="unfinished"></translation>
+        <translation>最新バージョン :</translation>
     </message>
     <message>
         <source>Last check:</source>
-        <translation type="unfinished"></translation>
+        <translation>最終確認 :</translation>
     </message>
     <message>
         <source>Recheck</source>
-        <translation type="unfinished"></translation>
+        <translation>再確認</translation>
     </message>
     <message>
         <source>Select download version:</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードバージョンの選択 :</translation>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -1490,74 +1490,74 @@ and specify -1 to let Sunny decide for you.</source>
         <source>Down url results: %1
 (url: %2)</source>
         <translation>Down url 結果 : %1
-(url: %2)</translation>
+(url : %2)</translation>
     </message>
 </context>
 <context>
     <name>VideoPlayer</name>
     <message>
         <source>Failed to open the video decoder</source>
-        <translation type="unfinished"></translation>
+        <translation>ビデオデコーダーを開けませんでした</translation>
     </message>
     <message>
         <source>Failed to open the audio output device</source>
-        <translation type="unfinished"></translation>
+        <translation>オーディオ出力デバイスを開けませんでした</translation>
     </message>
     <message>
         <source>Video</source>
-        <translation type="unfinished"></translation>
+        <translation>ビデオ</translation>
     </message>
     <message>
         <source>H Flip</source>
-        <translation type="unfinished">水平方向に反転</translation>
+        <translation>水平方向に反転</translation>
     </message>
     <message>
         <source>V Flip</source>
-        <translation type="unfinished">垂直方向に反転</translation>
+        <translation>垂直方向に反転</translation>
     </message>
     <message>
         <source>Rotate 0</source>
-        <translation type="unfinished"></translation>
+        <translation>回転 0</translation>
     </message>
     <message>
         <source>Rotate 90</source>
-        <translation type="unfinished"></translation>
+        <translation>回転 90</translation>
     </message>
     <message>
         <source>Rotate 180</source>
-        <translation type="unfinished"></translation>
+        <translation>回転 180</translation>
     </message>
     <message>
         <source>Rotate 270</source>
-        <translation type="unfinished"></translation>
+        <translation>回転 270</translation>
     </message>
     <message>
         <source>Audio</source>
-        <translation type="unfinished"></translation>
+        <translation>オーディオ</translation>
     </message>
     <message>
         <source>Select Audio Stream</source>
-        <translation type="unfinished"></translation>
+        <translation>オーディオストリームの選択</translation>
     </message>
     <message>
         <source>Renderer</source>
-        <translation type="unfinished"></translation>
+        <translation>レンダラー</translation>
     </message>
     <message>
         <source>Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕</translation>
     </message>
     <message>
         <source>Select Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕の選択</translation>
     </message>
     <message>
         <source>Add Subtitles</source>
-        <translation type="unfinished"></translation>
+        <translation>字幕を追加</translation>
     </message>
     <message>
         <source>Properties</source>
-        <translation type="unfinished"></translation>
+        <translation>プロパティ</translation>
     </message>
 </context>
 </TS>
