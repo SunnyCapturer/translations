@@ -201,6 +201,13 @@
     </message>
 </context>
 <context>
+    <name>HotkeyEdit</name>
+    <message>
+        <source>Press a key...</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>ImageView</name>
     <message>
         <source>Load Image</source>

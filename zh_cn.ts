@@ -44,7 +44,7 @@
     </message>
     <message>
         <source>Record GIF</source>
-        <translation>录制动图</translation>
+        <translation type="unfinished">录制 GIF</translation>
     </message>
     <message>
         <source>Open Camera</source>
@@ -198,6 +198,13 @@
     <message>
         <source>Move the selected rectangular box</source>
         <translation>移动已选的截屏区域</translation>
+    </message>
+</context>
+<context>
+    <name>HotkeyEdit</name>
+    <message>
+        <source>Press a key...</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
