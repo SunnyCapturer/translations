@@ -28,11 +28,11 @@
     </message>
     <message>
         <source>You can control it via the tray icon.</source>
-        <translation>Вы можете управлять им через значок в трее.</translation>
+        <translation>Управление осуществляется через иконку в трее.</translation>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Снимок экрана</translation>
+        <translation>Скриншот</translation>
     </message>
     <message>
         <source>OCR</source>
@@ -40,11 +40,11 @@
     </message>
     <message>
         <source>Record Video</source>
-        <translation>Запись видео</translation>
+        <translation>Записать видео</translation>
     </message>
     <message>
         <source>Record GIF</source>
-        <translation>Запись GIF</translation>
+        <translation>Записать GIF</translation>
     </message>
     <message>
         <source>Open Camera</source>
@@ -56,7 +56,7 @@
     </message>
     <message>
         <source>Restart</source>
-        <translation>Перезапуск</translation>
+        <translation>Перезапустить</translation>
     </message>
     <message>
         <source>Quit</source>
@@ -204,7 +204,7 @@
     <name>HotkeyEdit</name>
     <message>
         <source>Press a key...</source>
-        <translation type="unfinished"></translation>
+        <translation>Нажмите любую клавишу...</translation>
     </message>
 </context>
 <context>
@@ -311,7 +311,7 @@
     </message>
     <message>
         <source>Black</source>
-        <translation>Черный</translation>
+        <translation>Чёрный</translation>
     </message>
     <message>
         <source>Zoom : </source>
@@ -413,15 +413,15 @@ Reason Phrase: </source>
     <name>OcrUI</name>
     <message>
         <source>OCR</source>
-        <translation>OCR</translation>
+        <translation>Распознавание текста</translation>
     </message>
     <message>
         <source>Import PDF</source>
-        <translation>Импорт PDF</translation>
+        <translation>Импортировать PDF</translation>
     </message>
     <message>
         <source>Open PDF file</source>
-        <translation>Открыть файл PDF</translation>
+        <translation>Открыть PDF-файл</translation>
     </message>
     <message>
         <source>PDF file (*.pdf)</source>
@@ -432,7 +432,7 @@ Reason Phrase: </source>
     <name>PathEdit</name>
     <message>
         <source>Browse</source>
-        <translation>Просмотр</translation>
+        <translation>Обзор</translation>
     </message>
 </context>
 <context>
@@ -858,7 +858,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Tajik</source>
-        <translation>Таджикский</translation>
+        <translation>Тема</translation>
     </message>
     <message>
         <source>Filipino</source>
@@ -897,11 +897,11 @@ Reason Phrase: </source>
     <name>ScreenRecorder</name>
     <message>
         <source>Could not capture the given window</source>
-        <translation>Не удалось захватить указанное окно</translation>
+        <translation>Не удалось захватить выбранное окно</translation>
     </message>
     <message>
         <source>Failed to initialize the recorder</source>
-        <translation>Не удалось инициализировать записывающее устройство</translation>
+        <translation>Не удалось инициализировать рекордер</translation>
     </message>
     <message>
         <source>Could not open the encoder</source>
@@ -916,11 +916,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Success</source>
-        <translation>Успех</translation>
+        <translation>Успешно</translation>
     </message>
     <message>
         <source>Failed</source>
-        <translation>Неудача</translation>
+        <translation>Ошибка</translation>
     </message>
     <message>
         <source>Image save to %1</source>
@@ -935,7 +935,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>General</source>
-        <translation>Общее</translation>
+        <translation>Общие</translation>
     </message>
     <message>
         <source>Hotkeys</source>
@@ -943,11 +943,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Screenshot</source>
-        <translation>Снимок экрана</translation>
+        <translation>Скриншот</translation>
     </message>
     <message>
         <source>Video Recording</source>
-        <translation>Видеозапись</translation>
+        <translation>Запись видео</translation>
     </message>
     <message>
         <source>GIF Recording</source>
@@ -959,15 +959,15 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>OCR</source>
-        <translation>OCR</translation>
+        <translation>Распознавание текста</translation>
     </message>
     <message>
         <source>Image Translate</source>
-        <translation>Перевод изображения</translation>
+        <translation>Перевести изображение</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation>Обновление</translation>
+        <translation>Обновить</translation>
     </message>
     <message>
         <source>About</source>
@@ -975,7 +975,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Run on Startup</source>
-        <translation>Запуск при запуске</translation>
+        <translation>Запускать при старте системы</translation>
     </message>
     <message>
         <source>Language</source>
@@ -991,11 +991,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Dark</source>
-        <translation>Темный</translation>
+        <translation>Тёмная</translation>
     </message>
     <message>
         <source>Light</source>
-        <translation>Свет</translation>
+        <translation>Светлая</translation>
     </message>
     <message>
         <source>Theme</source>
@@ -1003,7 +1003,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Repeat Last Screenshot</source>
-        <translation>Повторить последний снимок экрана</translation>
+        <translation>Повторить последний снимок</translation>
     </message>
     <message>
         <source>Preview Clipboard</source>
@@ -1011,7 +1011,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Toggle Previews</source>
-        <translation>Переключить предварительный просмотр</translation>
+        <translation>Переключить предпросмотр</translation>
     </message>
     <message>
         <source>Quick Look</source>
@@ -1051,7 +1051,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Save Path</source>
-        <translation>Сохранить путь</translation>
+        <translation>Путь сохранения</translation>
     </message>
     <message>
         <source>Image</source>
@@ -1071,15 +1071,15 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Select Quick Save Directory</source>
-        <translation>Выбрать каталог для быстрого сохранения</translation>
+        <translation>Выбрать папку быстрого сохранения</translation>
     </message>
     <message>
         <source>Select Auto Save Directory</source>
-        <translation>Выбрать каталог для автоматического сохранения</translation>
+        <translation>Выбрать папку автосохранения</translation>
     </message>
     <message>
         <source>Show Region</source>
-        <translation>Показать регион</translation>
+        <translation>Показывать область</translation>
     </message>
     <message>
         <source>Floating Menu</source>
@@ -1119,11 +1119,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Hardware NVENC [H.264 / AVC]</source>
-        <translation>Аппаратное обеспечение NVENC [H.264 / AVC]</translation>
+        <translation>Аппаратный NVENC [H.264 / AVC]</translation>
     </message>
     <message>
         <source>Hardware NVENC [H.265 / HEVC]</source>
-        <translation>Аппаратное обеспечение NVENC [H.265 / HEVC]</translation>
+        <translation>Аппаратный NVENC [H.265 / HEVC]</translation>
     </message>
     <message>
         <source>Encoder</source>
@@ -1147,7 +1147,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Tune</source>
-        <translation>Настроить</translation>
+        <translation>Настройка</translation>
     </message>
     <message>
         <source>Pixel Format</source>
@@ -1179,11 +1179,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Max Colors</source>
-        <translation>Максимальное количество цветов</translation>
+        <translation>Макс. количество цветов</translation>
     </message>
     <message>
         <source>Dither</source>
-        <translation>Дрожание</translation>
+        <translation>Дизеринг</translation>
     </message>
     <message>
         <source>Extract text</source>
@@ -1191,7 +1191,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Engine</source>
-        <translation>Двигатель</translation>
+        <translation>Движок</translation>
     </message>
     <message>
         <source>Private account</source>
@@ -1199,11 +1199,11 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>If empty, use the default token.</source>
-        <translation>Если поле пустое, используйте токен по умолчанию.</translation>
+        <translation>Если поле пустое, используется токен по умолчанию.</translation>
     </message>
     <message>
         <source>Secret ID</source>
-        <translation>Секретный идентификатор</translation>
+        <translation>Секретный ID</translation>
     </message>
     <message>
         <source>Secret Key</source>
@@ -1223,7 +1223,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>Tencent Cloud Language [%1]</source>
-        <translation>Tencent Cloud Language [%1]</translation>
+        <translation>Облачный перевод Tencent [%1]</translation>
     </message>
     <message>
         <source>BaiDu Cloud Language [%1]</source>
@@ -1231,7 +1231,7 @@ Reason Phrase: </source>
     </message>
     <message>
         <source>YouDao Cloud Language [%1]</source>
-        <translation>Облачный язык YouDao [%1]</translation>
+        <translation>Облачный перевод YouDao [%1]</translation>
     </message>
     <message>
         <source>Speaker</source>
@@ -1283,7 +1283,9 @@ Reason Phrase: </source>
         <source>Range: [0,100] or -1.
 Specify 0 to obtain small compressed files, 100 for large uncompressed files,
 and specify -1 to let Sunny decide for you.</source>
-        <translation>Диапазон: [0,100] или -1. Укажите 0, чтобы получить небольшие сжатые файлы, 100 — для больших несжатых файлов, а -1 — чтобы Sunny сам принял решение.</translation>
+        <translation>Диапазон: [0, 100] или -1.
+Укажите 0 для получения сжатых файлов малого размера, 100 — для больших несжатых файлов. 
+Выберите -1, чтобы Sunny принял решение за вас.</translation>
     </message>
     <message>
         <source>Manual Save</source>
@@ -1299,11 +1301,11 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Remeber last used image extension</source>
-        <translation>Запомнить последнее использованное расширение изображения</translation>
+        <translation>Запомни расширение последнего использованного изображения</translation>
     </message>
     <message>
         <source>Skip the save dialog and directly save the last folder silently.</source>
-        <translation>Пропустить диалоговое окно сохранения и напрямую сохранить последнюю папку в фоновом режиме.</translation>
+        <translation>Пропускать диалог сохранения и автоматически сохранять в последнюю папку в фоновом режиме.</translation>
     </message>
     <message>
         <source>Quick Save</source>
@@ -1335,7 +1337,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Automatically save every screenshot will be saved to this folder.</source>
-        <translation>Автоматически сохранять каждый скриншот будет сохраняться в этой папке.</translation>
+        <translation>Все скриншоты будут автоматически сохраняться в эту папку.</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -1378,18 +1380,18 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Join the Insider Program</source>
-        <translation>Присоединяйтесь к программе для инсайдеров</translation>
+        <translation>Присоединиться к программе предварительной оценки</translation>
     </message>
 </context>
 <context>
     <name>SystemInfo</name>
     <message>
         <source>Idx</source>
-        <translation>Idx</translation>
+        <translation>Индекс</translation>
     </message>
     <message>
         <source>DevicePixelRatio</source>
-        <translation>Соотношение пикселей устройства</translation>
+        <translation>Коэффициент пикселей устройства</translation>
     </message>
     <message>
         <source>Logical DPI</source>
@@ -1397,7 +1399,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Physical DPI</source>
-        <translation>Физическое разрешение DPI</translation>
+        <translation>Физическое DPI</translation>
     </message>
     <message>
         <source>RefreshRate</source>
@@ -1440,7 +1442,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Select download version:</source>
-        <translation>Выберите версию для скачивания:</translation>
+        <translation>Выберите версию для загрузки:</translation>
     </message>
     <message>
         <source>Download</source>
@@ -1531,7 +1533,7 @@ and specify -1 to let Sunny decide for you.</source>
     </message>
     <message>
         <source>Rotate 270</source>
-        <translation>Поворот на 270</translation>
+        <translation>Повернуть на 270°</translation>
     </message>
     <message>
         <source>Audio</source>
