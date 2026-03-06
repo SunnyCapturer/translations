@@ -204,7 +204,7 @@
     <name>HotkeyEdit</name>
     <message>
         <source>Press a key...</source>
-        <translation type="unfinished"></translation>
+        <translation>キーを押してください...</translation>
     </message>
 </context>
 <context>
